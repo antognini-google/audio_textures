@@ -5,6 +5,5 @@
 ### Tapping 1-2-3
 
 <audio controls>
-  <source src="assets/fig1/Tapping_1-2-3/synth.mp3">
-  <source src="assets/fig1/Wind_chimes/synth.mp3">
+  <source src="assets/fig1/Wind_chimes/synth.ogg">
 </audio>
