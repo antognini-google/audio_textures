@@ -534,3 +534,74 @@ As the number of filters increases, the quality of the textures improves.
 
 </center>
 </table>
+
+## Figure 12
+
+Separate one-layer convolutional networks with different receptive field sizes
+work better than stacking several convolutional layers.
+
+<center>
+<table>
+
+<tr>
+  <th>Architecture</th>
+  <th>Wind chimes</th>
+  <th>Frogs and insects</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/fig12/Wind_chimes/original.ogg">
+    <source src="assets/fig12/Wind_chimes/original.mp3">
+    <source src="assets/fig12/Wind_chimes/original.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/original.ogg">
+    <source src="assets/fig11/Frogs_and_insects/original.mp3">
+    <source src="assets/fig11/Frogs_and_insects/original.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>Stacked</td>
+<td>
+  <audio controls>
+    <source src="assets/fig12/Wind_chimes/stacked.ogg">
+    <source src="assets/fig12/Wind_chimes/stacked.mp3">
+    <source src="assets/fig12/Wind_chimes/stacked.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/stacked.ogg">
+    <source src="assets/fig11/Frogs_and_insects/stacked.mp3">
+    <source src="assets/fig11/Frogs_and_insects/stacked.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>Separate</td>
+<td>
+  <audio controls>
+    <source src="assets/fig12/Wind_chimes/separate.ogg">
+    <source src="assets/fig12/Wind_chimes/separate.mp3">
+    <source src="assets/fig12/Wind_chimes/separate.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/separate.ogg">
+    <source src="assets/fig11/Frogs_and_insects/separate.mp3">
+    <source src="assets/fig11/Frogs_and_insects/separate.wav">
+  </audio>
+</td>
+</tr>
+
+</table>
+</center>
