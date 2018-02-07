@@ -560,9 +560,9 @@ work better than stacking several convolutional layers.
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig11/Frogs_and_insects/original.ogg">
-    <source src="assets/fig11/Frogs_and_insects/original.mp3">
-    <source src="assets/fig11/Frogs_and_insects/original.wav">
+    <source src="assets/fig12/Frogs_and_insects/original.ogg">
+    <source src="assets/fig12/Frogs_and_insects/original.mp3">
+    <source src="assets/fig12/Frogs_and_insects/original.wav">
   </audio>
 </td>
 </tr>
@@ -578,9 +578,9 @@ work better than stacking several convolutional layers.
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig11/Frogs_and_insects/stacked.ogg">
-    <source src="assets/fig11/Frogs_and_insects/stacked.mp3">
-    <source src="assets/fig11/Frogs_and_insects/stacked.wav">
+    <source src="assets/fig12/Frogs_and_insects/stacked.ogg">
+    <source src="assets/fig12/Frogs_and_insects/stacked.mp3">
+    <source src="assets/fig12/Frogs_and_insects/stacked.wav">
   </audio>
 </td>
 </tr>
