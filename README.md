@@ -596,9 +596,9 @@ work better than stacking several convolutional layers.
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig11/Frogs_and_insects/separate.ogg">
-    <source src="assets/fig11/Frogs_and_insects/separate.mp3">
-    <source src="assets/fig11/Frogs_and_insects/separate.wav">
+    <source src="assets/fig12/Frogs_and_insects/separate.ogg">
+    <source src="assets/fig12/Frogs_and_insects/separate.mp3">
+    <source src="assets/fig12/Frogs_and_insects/separate.wav">
   </audio>
 </td>
 </tr>
