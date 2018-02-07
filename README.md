@@ -426,8 +426,8 @@ structure.
 </td>
 </tr>
 
-</center>
 </table>
+</center>
 
 ## Figure 11
 
@@ -532,8 +532,8 @@ As the number of filters increases, the quality of the textures improves.
 </td>
 </tr>
 
-</center>
 </table>
+</center>
 
 ## Figure 12
 
