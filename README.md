@@ -180,3 +180,92 @@ The evolution of the audio during the optimization process.
 
 </table>
 </center>
+
+## Figure 6
+
+Rhythmic textures synthesized with different weights on the autocorrelation term
+in the loss.
+
+<center>
+<table>
+
+<tr>
+  <th>Autocorrelation weight</th>
+  <th>Tapping 1-2</th>
+  <th>Tapping 1-2-3</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_0.ogg">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_0.mp3">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_0.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_0.ogg">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_0.mp3">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_0.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1.ogg">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1.mp3">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1.ogg">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1.mp3">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1000</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1000.ogg">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1000.mp3">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_1000.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1000.ogg">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1000.mp3">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_1000.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>100000</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_100000.ogg">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_100000.mp3">
+    <source src="assets/fig6/Tapping_1-2/autocorrelation_weight_100000.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_100000.ogg">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_100000.mp3">
+    <source src="assets/fig6/Tapping_1-2-3/autocorrelation_weight_100000.wav">
+  </audio>
+</td>
+</tr>
+
+</table>
+</center>
