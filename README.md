@@ -428,3 +428,109 @@ structure.
 
 </center>
 </table>
+
+## Figure 11
+
+As the number of filters increases, the quality of the textures improves.
+
+<center>
+<table>
+
+<tr>
+  <th>Number of filters</th>
+  <th>Wind chimes</th>
+  <th>Frogs and insects</th>
+</tr>
+
+<tr>
+<td>2</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Wind_chimes/n_filters_2.ogg">
+    <source src="assets/fig11/Wind_chimes/n_filters_2.mp3">
+    <source src="assets/fig11/Wind_chimes/n_filters_2.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/n_filters_2.ogg">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_2.mp3">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_2.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Wind_chimes/n_filters_8.ogg">
+    <source src="assets/fig11/Wind_chimes/n_filters_8.mp3">
+    <source src="assets/fig11/Wind_chimes/n_filters_8.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/n_filters_8.ogg">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_8.mp3">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_8.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>32</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Wind_chimes/n_filters_32.ogg">
+    <source src="assets/fig11/Wind_chimes/n_filters_32.mp3">
+    <source src="assets/fig11/Wind_chimes/n_filters_32.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/n_filters_32.ogg">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_32.mp3">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_32.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>128</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Wind_chimes/n_filters_128.ogg">
+    <source src="assets/fig11/Wind_chimes/n_filters_128.mp3">
+    <source src="assets/fig11/Wind_chimes/n_filters_128.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/n_filters_128.ogg">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_128.mp3">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_128.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>512</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Wind_chimes/n_filters_512.ogg">
+    <source src="assets/fig11/Wind_chimes/n_filters_512.mp3">
+    <source src="assets/fig11/Wind_chimes/n_filters_512.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig11/Frogs_and_insects/n_filters_512.ogg">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_512.mp3">
+    <source src="assets/fig11/Frogs_and_insects/n_filters_512.wav">
+  </audio>
+</td>
+</tr>
+
+</center>
+</table>
