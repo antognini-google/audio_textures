@@ -269,3 +269,55 @@ in the loss.
 
 </table>
 </center>
+
+## Figure 8
+
+Complex sounds synthesized with different weights on the diversity loss.
+
+<center>
+<table>
+
+<tr>
+  <th>Diversity weight</th>
+  <th>Wind chimes</th>
+  <th>Person speaking French</th>
+</tr>
+
+<tr>
+<td>1e-5</td>
+<td>
+  <audio controls>
+    <source src="assets/fig8/Wind_chimes/diversity_weight_1e-05.ogg">
+    <source src="assets/fig8/Wind_chimes/diversity_weight_1e-05.mp3">
+    <source src="assets/fig8/Wind_chimes/diversity_weight_1e-05.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_1e-05.ogg">
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_1e-05.mp3">
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_1e-05.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1e-3</td>
+<td>
+  <audio controls>
+    <source src="assets/fig8/Wind_chimes/diversity_weight_0.001.ogg">
+    <source src="assets/fig8/Wind_chimes/diversity_weight_0.001.mp3">
+    <source src="assets/fig8/Wind_chimes/diversity_weight_0.001.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_0.001.ogg">
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_0.001.mp3">
+    <source src="assets/fig8/Person_speaking_French/diversity_weight_0.001.wav">
+  </audio>
+</td>
+</tr>
+
+</table>
+</center>
