@@ -1,6 +1,9 @@
 # Audio texture synthesis
 
-## Figure 1
+## Figure 3
+
+Some exemplary textures synthesized with a large weight on the autocorrelation
+loss and a relatively low weight on the diversity loss.
 
 <center>
 
@@ -16,16 +19,16 @@
 <td>Tapping 1-2-3</td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Tapping_1-2-3/original.ogg">
-    <source src="assets/fig1/Tapping_1-2-3/original.mp3">
-    <source src="assets/fig1/Tapping_1-2-3/original.wav">
+    <source src="assets/fig3/Tapping_1-2-3/original.ogg">
+    <source src="assets/fig3/Tapping_1-2-3/original.mp3">
+    <source src="assets/fig3/Tapping_1-2-3/original.wav">
   </audio>
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Tapping_1-2-3/synth.ogg">
-    <source src="assets/fig1/Tapping_1-2-3/synth.mp3">
-    <source src="assets/fig1/Tapping_1-2-3/synth.wav">
+    <source src="assets/fig3/Tapping_1-2-3/synth.ogg">
+    <source src="assets/fig3/Tapping_1-2-3/synth.mp3">
+    <source src="assets/fig3/Tapping_1-2-3/synth.wav">
   </audio>
 </td>
 </tr>
@@ -34,16 +37,16 @@
 <td>Wind chimes</td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Wind_chimes/original.ogg">
-    <source src="assets/fig1/Wind_chimes/original.mp3">
-    <source src="assets/fig1/Wind_chimes/original.wav">
+    <source src="assets/fig3/Wind_chimes/original.ogg">
+    <source src="assets/fig3/Wind_chimes/original.mp3">
+    <source src="assets/fig3/Wind_chimes/original.wav">
   </audio>
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Wind_chimes/synth.ogg">
-    <source src="assets/fig1/Wind_chimes/synth.mp3">
-    <source src="assets/fig1/Wind_chimes/synth.wav">
+    <source src="assets/fig3/Wind_chimes/synth.ogg">
+    <source src="assets/fig3/Wind_chimes/synth.mp3">
+    <source src="assets/fig3/Wind_chimes/synth.wav">
   </audio>
 </td>
 </tr>
@@ -52,16 +55,16 @@
 <td>Person speaking English</td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Person_speaking_English/original.ogg">
-    <source src="assets/fig1/Person_speaking_English/original.mp3">
-    <source src="assets/fig1/Person_speaking_English/original.wav">
+    <source src="assets/fig3/Person_speaking_English/original.ogg">
+    <source src="assets/fig3/Person_speaking_English/original.mp3">
+    <source src="assets/fig3/Person_speaking_English/original.wav">
   </audio>
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Person_speaking_English/synth.ogg">
-    <source src="assets/fig1/Person_speaking_English/synth.mp3">
-    <source src="assets/fig1/Person_speaking_English/synth.wav">
+    <source src="assets/fig3/Person_speaking_English/synth.ogg">
+    <source src="assets/fig3/Person_speaking_English/synth.mp3">
+    <source src="assets/fig3/Person_speaking_English/synth.wav">
   </audio>
 </td>
 </tr>
@@ -70,18 +73,110 @@
 <td>Frogs and insects</td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Frogs_and_insects/original.ogg">
-    <source src="assets/fig1/Frogs_and_insects/original.mp3">
-    <source src="assets/fig1/Frogs_and_insects/original.wav">
+    <source src="assets/fig3/Frogs_and_insects/original.ogg">
+    <source src="assets/fig3/Frogs_and_insects/original.mp3">
+    <source src="assets/fig3/Frogs_and_insects/original.wav">
   </audio>
 </td>
 <td>
   <audio controls>
-    <source src="assets/fig1/Frogs_and_insects/synth.ogg">
-    <source src="assets/fig1/Frogs_and_insects/synth.mp3">
-    <source src="assets/fig1/Frogs_and_insects/synth.wav">
+    <source src="assets/fig3/Frogs_and_insects/synth.ogg">
+    <source src="assets/fig3/Frogs_and_insects/synth.mp3">
+    <source src="assets/fig3/Frogs_and_insects/synth.wav">
   </audio>
 </td>
 </tr>
+</table>
+</center>
+
+## Figure 4
+
+The evolution of the audio during the optimization process.
+
+<center>
+<table>
+
+<tr>
+  <th>Steps</th>
+  <th>Audio</th>
+</tr>
+
+<tr>
+<td>3</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step3.ogg">
+    <source src="assets/fig4/step3.mp3">
+    <source src="assets/fig4/step3.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step10.ogg">
+    <source src="assets/fig4/step10.mp3">
+    <source src="assets/fig4/step10.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>30</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step30.ogg">
+    <source src="assets/fig4/step30.mp3">
+    <source src="assets/fig4/step30.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>100</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step100.ogg">
+    <source src="assets/fig4/step100.mp3">
+    <source src="assets/fig4/step100.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>300</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step300.ogg">
+    <source src="assets/fig4/step300.mp3">
+    <source src="assets/fig4/step300.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1000</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step1000.ogg">
+    <source src="assets/fig4/step1000.mp3">
+    <source src="assets/fig4/step1000.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1768</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step1768.ogg">
+    <source src="assets/fig4/step1768.mp3">
+    <source src="assets/fig4/step1768.wav">
+  </audio>
+</td>
+</tr>
+
 </table>
 </center>
