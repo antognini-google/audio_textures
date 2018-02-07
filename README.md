@@ -321,3 +321,110 @@ Complex sounds synthesized with different weights on the diversity loss.
 
 </table>
 </center>
+
+## Figure 10
+
+As the size of the receptive field widens the textures can reproduce longer-term
+structure.
+
+<center>
+<table>
+
+<tr>
+  <th>Convolutional kernel size</th>
+  <th>Wind chimes</th>
+  <th>Brushing teeth</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Wind_chimes/original.ogg">
+    <source src="assets/fig10/Wind_chimes/original.mp3">
+    <source src="assets/fig10/Wind_chimes/original.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Brushing_teeth/original.ogg">
+    <source src="assets/fig10/Brushing_teeth/original.mp3">
+    <source src="assets/fig10/Brushing_teeth/original.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Wind_chimes/conv_width_2.ogg">
+    <source src="assets/fig10/Wind_chimes/conv_width_2.mp3">
+    <source src="assets/fig10/Wind_chimes/conv_width_2.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Brushing_teeth/conv_width_2.ogg">
+    <source src="assets/fig10/Brushing_teeth/conv_width_2.mp3">
+    <source src="assets/fig10/Brushing_teeth/conv_width_2.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Wind_chimes/conv_width_4.ogg">
+    <source src="assets/fig10/Wind_chimes/conv_width_4.mp3">
+    <source src="assets/fig10/Wind_chimes/conv_width_4.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Brushing_teeth/conv_width_4.ogg">
+    <source src="assets/fig10/Brushing_teeth/conv_width_4.mp3">
+    <source src="assets/fig10/Brushing_teeth/conv_width_4.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>64</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Wind_chimes/conv_width_6.ogg">
+    <source src="assets/fig10/Wind_chimes/conv_width_6.mp3">
+    <source src="assets/fig10/Wind_chimes/conv_width_6.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Brushing_teeth/conv_width_6.ogg">
+    <source src="assets/fig10/Brushing_teeth/conv_width_6.mp3">
+    <source src="assets/fig10/Brushing_teeth/conv_width_6.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>256</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Wind_chimes/conv_width_8.ogg">
+    <source src="assets/fig10/Wind_chimes/conv_width_8.mp3">
+    <source src="assets/fig10/Wind_chimes/conv_width_8.wav">
+  </audio>
+</td>
+<td>
+  <audio controls>
+    <source src="assets/fig10/Brushing_teeth/conv_width_8.ogg">
+    <source src="assets/fig10/Brushing_teeth/conv_width_8.mp3">
+    <source src="assets/fig10/Brushing_teeth/conv_width_8.wav">
+  </audio>
+</td>
+</tr>
+
+</center>
+</table>
