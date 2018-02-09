@@ -1,6 +1,8 @@
 # Audio texture synthesis
 
-## Figure 3
+## Audio for figures
+
+### Figure 3
 
 Some exemplary textures synthesized with a large weight on the autocorrelation
 loss and a relatively low weight on the diversity loss.
@@ -89,99 +91,7 @@ loss and a relatively low weight on the diversity loss.
 </table>
 </center>
 
-## Figure 4
-
-The evolution of the audio during the optimization process.
-
-<center>
-<table>
-
-<tr>
-  <th>Steps</th>
-  <th>Audio</th>
-</tr>
-
-<tr>
-<td>3</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step3.ogg">
-    <source src="assets/fig4/step3.mp3">
-    <source src="assets/fig4/step3.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>10</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step10.ogg">
-    <source src="assets/fig4/step10.mp3">
-    <source src="assets/fig4/step10.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>30</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step30.ogg">
-    <source src="assets/fig4/step30.mp3">
-    <source src="assets/fig4/step30.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>100</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step100.ogg">
-    <source src="assets/fig4/step100.mp3">
-    <source src="assets/fig4/step100.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>300</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step300.ogg">
-    <source src="assets/fig4/step300.mp3">
-    <source src="assets/fig4/step300.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>1000</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step1000.ogg">
-    <source src="assets/fig4/step1000.mp3">
-    <source src="assets/fig4/step1000.wav">
-  </audio>
-</td>
-</tr>
-
-<tr>
-<td>1768</td>
-<td>
-  <audio controls>
-    <source src="assets/fig4/step1768.ogg">
-    <source src="assets/fig4/step1768.mp3">
-    <source src="assets/fig4/step1768.wav">
-  </audio>
-</td>
-</tr>
-
-</table>
-</center>
-
-## Figure 6
+### Figure 5
 
 Rhythmic textures synthesized with different weights on the autocorrelation term
 in the loss.
@@ -270,7 +180,7 @@ in the loss.
 </table>
 </center>
 
-## Figure 8
+### Figure 7
 
 Complex sounds synthesized with different weights on the diversity loss.
 
@@ -322,7 +232,7 @@ Complex sounds synthesized with different weights on the diversity loss.
 </table>
 </center>
 
-## Figure 10
+### Figure 9
 
 As the size of the receptive field widens the textures can reproduce longer-term
 structure.
@@ -429,7 +339,7 @@ structure.
 </table>
 </center>
 
-## Figure 11
+### Figure 10
 
 As the number of filters increases, the quality of the textures improves.
 
@@ -535,7 +445,7 @@ As the number of filters increases, the quality of the textures improves.
 </table>
 </center>
 
-## Figure 12
+### Figure 11
 
 Separate one-layer convolutional networks with different receptive field sizes
 work better than stacking several convolutional layers.
@@ -605,3 +515,96 @@ work better than stacking several convolutional layers.
 
 </table>
 </center>
+
+## Other audio
+
+### Evolution of the audio during optimization
+
+<center>
+<table>
+
+<tr>
+  <th>Steps</th>
+  <th>Audio</th>
+</tr>
+
+<tr>
+<td>3</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step3.ogg">
+    <source src="assets/fig4/step3.mp3">
+    <source src="assets/fig4/step3.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step10.ogg">
+    <source src="assets/fig4/step10.mp3">
+    <source src="assets/fig4/step10.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>30</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step30.ogg">
+    <source src="assets/fig4/step30.mp3">
+    <source src="assets/fig4/step30.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>100</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step100.ogg">
+    <source src="assets/fig4/step100.mp3">
+    <source src="assets/fig4/step100.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>300</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step300.ogg">
+    <source src="assets/fig4/step300.mp3">
+    <source src="assets/fig4/step300.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1000</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step1000.ogg">
+    <source src="assets/fig4/step1000.mp3">
+    <source src="assets/fig4/step1000.wav">
+  </audio>
+</td>
+</tr>
+
+<tr>
+<td>1768</td>
+<td>
+  <audio controls>
+    <source src="assets/fig4/step1768.ogg">
+    <source src="assets/fig4/step1768.mp3">
+    <source src="assets/fig4/step1768.wav">
+  </audio>
+</td>
+</tr>
+
+</table>
+</center>
+
