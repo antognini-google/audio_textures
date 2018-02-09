@@ -1,0 +1,19 @@
+#mouseOver {
+    display: inline;
+    position: relative;
+}
+
+#mouseOver img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 1em;
+    opacity: 0;
+    pointer-events: none;
+    transition-duration: 800ms;
+}
+
+#mouseOver:hover img {
+    opacity: 1;
+    transition-duration: 400ms;
+}

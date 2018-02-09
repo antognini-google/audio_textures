@@ -6,6 +6,10 @@
 
 ### Evolution of the audio during optimization
 
+This sequence of audio shows what the wind chimes texture sounds like at various
+points during the optimization.  In this case the optimization halted after 1768
+steps rather than run for the full 2000 steps.
+
 <center>
 <table>
 
