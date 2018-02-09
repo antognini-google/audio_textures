@@ -1,6 +1,10 @@
-# Supplementary audio
+[Main page](README.md)
 
-## Evolution of the audio during optimization
+# Audio textures
+
+## Supplementary audio
+
+### Evolution of the audio during optimization
 
 <center>
 <table>
