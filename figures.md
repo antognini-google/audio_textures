@@ -102,7 +102,7 @@ in the loss.
 <table>
 
 <tr>
-  <th>Autocorrelation weight</th>
+  <th>Autocor-relation weight</th>
   <th>Tapping 1-2</th>
   <th>Tapping 1-2-3</th>
 </tr>
