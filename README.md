@@ -1,5 +1,7 @@
 # Audio texture synthesis
 
+## [Comparison to baselines](baselines.md)
+
 ## [Audio for figures](figures.md)
 
-## [Other audio](supplementary_audio.md)
+## [Supplementary audio](supplementary_audio.md)
