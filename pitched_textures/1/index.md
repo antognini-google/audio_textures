@@ -10,7 +10,7 @@
 
 ### Pitched textures
 
-#### Tambourine shaking
+#### Birds in forest
 
 <center>
 <table>
@@ -25,13 +25,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tambourine_shaking.ogg">
-    <source src="assets/baselines/original/Tambourine_shaking.mp3">
-    <source src="assets/baselines/original/Tambourine_shaking.wav">
+    <source src="assets/baselines/original/Birds_in_forest.ogg">
+    <source src="assets/baselines/original/Birds_in_forest.mp3">
+    <source src="assets/baselines/original/Birds_in_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/original/Birds_in_forest.png">Link</a>
 </td>
 </tr>
 
@@ -39,13 +39,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.ogg">
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.mp3">
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.wav">
+    <source src="assets/baselines/mcdermott/Birds_in_forest.ogg">
+    <source src="assets/baselines/mcdermott/Birds_in_forest.mp3">
+    <source src="assets/baselines/mcdermott/Birds_in_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/mcdermott/Birds_in_forest.png">Link</a>
 </td>
 </tr>
 
@@ -53,13 +53,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.ogg">
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.mp3">
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.wav">
+    <source src="assets/baselines/ulyanov/Birds_in_forest.ogg">
+    <source src="assets/baselines/ulyanov/Birds_in_forest.mp3">
+    <source src="assets/baselines/ulyanov/Birds_in_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/ulyanov/Birds_in_forest.png">Link</a>
 </td>
 </tr>
 
@@ -67,13 +67,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tambourine_shaking.ogg">
-    <source src="assets/baselines/gram/Tambourine_shaking.mp3">
-    <source src="assets/baselines/gram/Tambourine_shaking.wav">
+    <source src="assets/baselines/gram/Birds_in_forest.ogg">
+    <source src="assets/baselines/gram/Birds_in_forest.mp3">
+    <source src="assets/baselines/gram/Birds_in_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/gram/Birds_in_forest.png">Link</a>
 </td>
 </tr>
 
@@ -81,20 +81,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tambourine_shaking.ogg">
-    <source src="assets/baselines/full_loss/Tambourine_shaking.mp3">
-    <source src="assets/baselines/full_loss/Tambourine_shaking.wav">
+    <source src="assets/baselines/full_loss/Birds_in_forest.ogg">
+    <source src="assets/baselines/full_loss/Birds_in_forest.mp3">
+    <source src="assets/baselines/full_loss/Birds_in_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/full_loss/Birds_in_forest.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Wind chimes
+#### Birds in tropical forest
 
 <center>
 <table>
@@ -109,13 +109,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Wind_chimes.ogg">
-    <source src="assets/baselines/original/Wind_chimes.mp3">
-    <source src="assets/baselines/original/Wind_chimes.wav">
+    <source src="assets/baselines/original/Birds_in_tropical_forest.ogg">
+    <source src="assets/baselines/original/Birds_in_tropical_forest.mp3">
+    <source src="assets/baselines/original/Birds_in_tropical_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Wind_chimes.png">Link</a>
+  <a href="assets/baselines/original/Birds_in_tropical_forest.png">Link</a>
 </td>
 </tr>
 
@@ -123,13 +123,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Wind_chimes.ogg">
-    <source src="assets/baselines/mcdermott/Wind_chimes.mp3">
-    <source src="assets/baselines/mcdermott/Wind_chimes.wav">
+    <source src="assets/baselines/mcdermott/Birds_in_tropical_forest.ogg">
+    <source src="assets/baselines/mcdermott/Birds_in_tropical_forest.mp3">
+    <source src="assets/baselines/mcdermott/Birds_in_tropical_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Wind_chimes.png">Link</a>
+  <a href="assets/baselines/mcdermott/Birds_in_tropical_forest.png">Link</a>
 </td>
 </tr>
 
@@ -137,13 +137,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Wind_chimes.ogg">
-    <source src="assets/baselines/ulyanov/Wind_chimes.mp3">
-    <source src="assets/baselines/ulyanov/Wind_chimes.wav">
+    <source src="assets/baselines/ulyanov/Birds_in_tropical_forest.ogg">
+    <source src="assets/baselines/ulyanov/Birds_in_tropical_forest.mp3">
+    <source src="assets/baselines/ulyanov/Birds_in_tropical_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Wind_chimes.png">Link</a>
+  <a href="assets/baselines/ulyanov/Birds_in_tropical_forest.png">Link</a>
 </td>
 </tr>
 
@@ -151,13 +151,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Wind_chimes.ogg">
-    <source src="assets/baselines/gram/Wind_chimes.mp3">
-    <source src="assets/baselines/gram/Wind_chimes.wav">
+    <source src="assets/baselines/gram/Birds_in_tropical_forest.ogg">
+    <source src="assets/baselines/gram/Birds_in_tropical_forest.mp3">
+    <source src="assets/baselines/gram/Birds_in_tropical_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Wind_chimes.png">Link</a>
+  <a href="assets/baselines/gram/Birds_in_tropical_forest.png">Link</a>
 </td>
 </tr>
 
@@ -165,20 +165,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Wind_chimes.ogg">
-    <source src="assets/baselines/full_loss/Wind_chimes.mp3">
-    <source src="assets/baselines/full_loss/Wind_chimes.wav">
+    <source src="assets/baselines/full_loss/Birds_in_tropical_forest.ogg">
+    <source src="assets/baselines/full_loss/Birds_in_tropical_forest.mp3">
+    <source src="assets/baselines/full_loss/Birds_in_tropical_forest.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Wind_chimes.png">Link</a>
+  <a href="assets/baselines/full_loss/Birds_in_tropical_forest.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Wolves howling
+#### Church bells
 
 <center>
 <table>
@@ -193,13 +193,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Wolves_howling.ogg">
-    <source src="assets/baselines/original/Wolves_howling.mp3">
-    <source src="assets/baselines/original/Wolves_howling.wav">
+    <source src="assets/baselines/original/Church_bells.ogg">
+    <source src="assets/baselines/original/Church_bells.mp3">
+    <source src="assets/baselines/original/Church_bells.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Wolves_howling.png">Link</a>
+  <a href="assets/baselines/original/Church_bells.png">Link</a>
 </td>
 </tr>
 
@@ -207,13 +207,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Wolves_howling.ogg">
-    <source src="assets/baselines/mcdermott/Wolves_howling.mp3">
-    <source src="assets/baselines/mcdermott/Wolves_howling.wav">
+    <source src="assets/baselines/mcdermott/Church_bells.ogg">
+    <source src="assets/baselines/mcdermott/Church_bells.mp3">
+    <source src="assets/baselines/mcdermott/Church_bells.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Wolves_howling.png">Link</a>
+  <a href="assets/baselines/mcdermott/Church_bells.png">Link</a>
 </td>
 </tr>
 
@@ -221,13 +221,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Wolves_howling.ogg">
-    <source src="assets/baselines/ulyanov/Wolves_howling.mp3">
-    <source src="assets/baselines/ulyanov/Wolves_howling.wav">
+    <source src="assets/baselines/ulyanov/Church_bells.ogg">
+    <source src="assets/baselines/ulyanov/Church_bells.mp3">
+    <source src="assets/baselines/ulyanov/Church_bells.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Wolves_howling.png">Link</a>
+  <a href="assets/baselines/ulyanov/Church_bells.png">Link</a>
 </td>
 </tr>
 
@@ -235,13 +235,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Wolves_howling.ogg">
-    <source src="assets/baselines/gram/Wolves_howling.mp3">
-    <source src="assets/baselines/gram/Wolves_howling.wav">
+    <source src="assets/baselines/gram/Church_bells.ogg">
+    <source src="assets/baselines/gram/Church_bells.mp3">
+    <source src="assets/baselines/gram/Church_bells.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Wolves_howling.png">Link</a>
+  <a href="assets/baselines/gram/Church_bells.png">Link</a>
 </td>
 </tr>
 
@@ -249,13 +249,601 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Wolves_howling.ogg">
-    <source src="assets/baselines/full_loss/Wolves_howling.mp3">
-    <source src="assets/baselines/full_loss/Wolves_howling.wav">
+    <source src="assets/baselines/full_loss/Church_bells.ogg">
+    <source src="assets/baselines/full_loss/Church_bells.mp3">
+    <source src="assets/baselines/full_loss/Church_bells.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Wolves_howling.png">Link</a>
+  <a href="assets/baselines/full_loss/Church_bells.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Cymbals shaking
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Cymbals_shaking.ogg">
+    <source src="assets/baselines/original/Cymbals_shaking.mp3">
+    <source src="assets/baselines/original/Cymbals_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Cymbals_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Cymbals_shaking.ogg">
+    <source src="assets/baselines/mcdermott/Cymbals_shaking.mp3">
+    <source src="assets/baselines/mcdermott/Cymbals_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Cymbals_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Cymbals_shaking.ogg">
+    <source src="assets/baselines/ulyanov/Cymbals_shaking.mp3">
+    <source src="assets/baselines/ulyanov/Cymbals_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Cymbals_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Cymbals_shaking.ogg">
+    <source src="assets/baselines/gram/Cymbals_shaking.mp3">
+    <source src="assets/baselines/gram/Cymbals_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Cymbals_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Cymbals_shaking.ogg">
+    <source src="assets/baselines/full_loss/Cymbals_shaking.mp3">
+    <source src="assets/baselines/full_loss/Cymbals_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Cymbals_shaking.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Fire alarm bell
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Fire_alarm_bell.ogg">
+    <source src="assets/baselines/original/Fire_alarm_bell.mp3">
+    <source src="assets/baselines/original/Fire_alarm_bell.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Fire_alarm_bell.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Fire_alarm_bell.ogg">
+    <source src="assets/baselines/mcdermott/Fire_alarm_bell.mp3">
+    <source src="assets/baselines/mcdermott/Fire_alarm_bell.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Fire_alarm_bell.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Fire_alarm_bell.ogg">
+    <source src="assets/baselines/ulyanov/Fire_alarm_bell.mp3">
+    <source src="assets/baselines/ulyanov/Fire_alarm_bell.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Fire_alarm_bell.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Fire_alarm_bell.ogg">
+    <source src="assets/baselines/gram/Fire_alarm_bell.mp3">
+    <source src="assets/baselines/gram/Fire_alarm_bell.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Fire_alarm_bell.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Fire_alarm_bell.ogg">
+    <source src="assets/baselines/full_loss/Fire_alarm_bell.mp3">
+    <source src="assets/baselines/full_loss/Fire_alarm_bell.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Fire_alarm_bell.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Jingling keys
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Jingling_keys.ogg">
+    <source src="assets/baselines/original/Jingling_keys.mp3">
+    <source src="assets/baselines/original/Jingling_keys.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Jingling_keys.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Jingling_keys.ogg">
+    <source src="assets/baselines/mcdermott/Jingling_keys.mp3">
+    <source src="assets/baselines/mcdermott/Jingling_keys.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Jingling_keys.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Jingling_keys.ogg">
+    <source src="assets/baselines/ulyanov/Jingling_keys.mp3">
+    <source src="assets/baselines/ulyanov/Jingling_keys.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Jingling_keys.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Jingling_keys.ogg">
+    <source src="assets/baselines/gram/Jingling_keys.mp3">
+    <source src="assets/baselines/gram/Jingling_keys.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Jingling_keys.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Jingling_keys.ogg">
+    <source src="assets/baselines/full_loss/Jingling_keys.mp3">
+    <source src="assets/baselines/full_loss/Jingling_keys.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Jingling_keys.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Pigeons cooing
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Pigeons_cooing.ogg">
+    <source src="assets/baselines/original/Pigeons_cooing.mp3">
+    <source src="assets/baselines/original/Pigeons_cooing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Pigeons_cooing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Pigeons_cooing.ogg">
+    <source src="assets/baselines/mcdermott/Pigeons_cooing.mp3">
+    <source src="assets/baselines/mcdermott/Pigeons_cooing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Pigeons_cooing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Pigeons_cooing.ogg">
+    <source src="assets/baselines/ulyanov/Pigeons_cooing.mp3">
+    <source src="assets/baselines/ulyanov/Pigeons_cooing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Pigeons_cooing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Pigeons_cooing.ogg">
+    <source src="assets/baselines/gram/Pigeons_cooing.mp3">
+    <source src="assets/baselines/gram/Pigeons_cooing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Pigeons_cooing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Pigeons_cooing.ogg">
+    <source src="assets/baselines/full_loss/Pigeons_cooing.mp3">
+    <source src="assets/baselines/full_loss/Pigeons_cooing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Pigeons_cooing.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Pouring coins1
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Pouring_coins1.ogg">
+    <source src="assets/baselines/original/Pouring_coins1.mp3">
+    <source src="assets/baselines/original/Pouring_coins1.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Pouring_coins1.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Pouring_coins1.ogg">
+    <source src="assets/baselines/mcdermott/Pouring_coins1.mp3">
+    <source src="assets/baselines/mcdermott/Pouring_coins1.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Pouring_coins1.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Pouring_coins1.ogg">
+    <source src="assets/baselines/ulyanov/Pouring_coins1.mp3">
+    <source src="assets/baselines/ulyanov/Pouring_coins1.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Pouring_coins1.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Pouring_coins1.ogg">
+    <source src="assets/baselines/gram/Pouring_coins1.mp3">
+    <source src="assets/baselines/gram/Pouring_coins1.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Pouring_coins1.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Pouring_coins1.ogg">
+    <source src="assets/baselines/full_loss/Pouring_coins1.mp3">
+    <source src="assets/baselines/full_loss/Pouring_coins1.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Pouring_coins1.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Pouring coins2
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Pouring_coins2.ogg">
+    <source src="assets/baselines/original/Pouring_coins2.mp3">
+    <source src="assets/baselines/original/Pouring_coins2.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Pouring_coins2.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Pouring_coins2.ogg">
+    <source src="assets/baselines/mcdermott/Pouring_coins2.mp3">
+    <source src="assets/baselines/mcdermott/Pouring_coins2.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Pouring_coins2.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Pouring_coins2.ogg">
+    <source src="assets/baselines/ulyanov/Pouring_coins2.mp3">
+    <source src="assets/baselines/ulyanov/Pouring_coins2.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Pouring_coins2.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Pouring_coins2.ogg">
+    <source src="assets/baselines/gram/Pouring_coins2.mp3">
+    <source src="assets/baselines/gram/Pouring_coins2.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Pouring_coins2.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Pouring_coins2.ogg">
+    <source src="assets/baselines/full_loss/Pouring_coins2.mp3">
+    <source src="assets/baselines/full_loss/Pouring_coins2.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Pouring_coins2.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Railroad crossing
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Railroad_crossing.ogg">
+    <source src="assets/baselines/original/Railroad_crossing.mp3">
+    <source src="assets/baselines/original/Railroad_crossing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Railroad_crossing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Railroad_crossing.ogg">
+    <source src="assets/baselines/mcdermott/Railroad_crossing.mp3">
+    <source src="assets/baselines/mcdermott/Railroad_crossing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Railroad_crossing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Railroad_crossing.ogg">
+    <source src="assets/baselines/ulyanov/Railroad_crossing.mp3">
+    <source src="assets/baselines/ulyanov/Railroad_crossing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Railroad_crossing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Railroad_crossing.ogg">
+    <source src="assets/baselines/gram/Railroad_crossing.mp3">
+    <source src="assets/baselines/gram/Railroad_crossing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Railroad_crossing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Railroad_crossing.ogg">
+    <source src="assets/baselines/full_loss/Railroad_crossing.mp3">
+    <source src="assets/baselines/full_loss/Railroad_crossing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 

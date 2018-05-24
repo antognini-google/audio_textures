@@ -10,7 +10,7 @@
 
 ### Stationary textures
 
-#### Train speeding down railroad tracks - Diesel
+#### Steam engine
 
 <center>
 <table>
@@ -25,13 +25,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_Diesel.ogg">
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_Diesel.mp3">
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_Diesel.wav">
+    <source src="assets/baselines/original/Steam_engine.ogg">
+    <source src="assets/baselines/original/Steam_engine.mp3">
+    <source src="assets/baselines/original/Steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Train_speeding_down_railroad_tracks_-_Diesel.png">Link</a>
+  <a href="assets/baselines/original/Steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -39,13 +39,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_Diesel.ogg">
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_Diesel.mp3">
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_Diesel.wav">
+    <source src="assets/baselines/mcdermott/Steam_engine.ogg">
+    <source src="assets/baselines/mcdermott/Steam_engine.mp3">
+    <source src="assets/baselines/mcdermott/Steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_Diesel.png">Link</a>
+  <a href="assets/baselines/mcdermott/Steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -53,13 +53,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_Diesel.ogg">
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_Diesel.mp3">
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_Diesel.wav">
+    <source src="assets/baselines/ulyanov/Steam_engine.ogg">
+    <source src="assets/baselines/ulyanov/Steam_engine.mp3">
+    <source src="assets/baselines/ulyanov/Steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_Diesel.png">Link</a>
+  <a href="assets/baselines/ulyanov/Steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -67,13 +67,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_Diesel.ogg">
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_Diesel.mp3">
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_Diesel.wav">
+    <source src="assets/baselines/gram/Steam_engine.ogg">
+    <source src="assets/baselines/gram/Steam_engine.mp3">
+    <source src="assets/baselines/gram/Steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_Diesel.png">Link</a>
+  <a href="assets/baselines/gram/Steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -81,20 +81,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_Diesel.ogg">
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_Diesel.mp3">
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_Diesel.wav">
+    <source src="assets/baselines/full_loss/Steam_engine.ogg">
+    <source src="assets/baselines/full_loss/Steam_engine.mp3">
+    <source src="assets/baselines/full_loss/Steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_Diesel.png">Link</a>
+  <a href="assets/baselines/full_loss/Steam_engine.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Train speeding down railroad tracks - steam
+#### Steam shovel
 
 <center>
 <table>
@@ -109,13 +109,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_steam.ogg">
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_steam.mp3">
-    <source src="assets/baselines/original/Train_speeding_down_railroad_tracks_-_steam.wav">
+    <source src="assets/baselines/original/Steam_shovel.ogg">
+    <source src="assets/baselines/original/Steam_shovel.mp3">
+    <source src="assets/baselines/original/Steam_shovel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Train_speeding_down_railroad_tracks_-_steam.png">Link</a>
+  <a href="assets/baselines/original/Steam_shovel.png">Link</a>
 </td>
 </tr>
 
@@ -123,13 +123,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_steam.ogg">
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_steam.mp3">
-    <source src="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_steam.wav">
+    <source src="assets/baselines/mcdermott/Steam_shovel.ogg">
+    <source src="assets/baselines/mcdermott/Steam_shovel.mp3">
+    <source src="assets/baselines/mcdermott/Steam_shovel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Train_speeding_down_railroad_tracks_-_steam.png">Link</a>
+  <a href="assets/baselines/mcdermott/Steam_shovel.png">Link</a>
 </td>
 </tr>
 
@@ -137,13 +137,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_steam.ogg">
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_steam.mp3">
-    <source src="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_steam.wav">
+    <source src="assets/baselines/ulyanov/Steam_shovel.ogg">
+    <source src="assets/baselines/ulyanov/Steam_shovel.mp3">
+    <source src="assets/baselines/ulyanov/Steam_shovel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Train_speeding_down_railroad_tracks_-_steam.png">Link</a>
+  <a href="assets/baselines/ulyanov/Steam_shovel.png">Link</a>
 </td>
 </tr>
 
@@ -151,13 +151,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_steam.ogg">
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_steam.mp3">
-    <source src="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_steam.wav">
+    <source src="assets/baselines/gram/Steam_shovel.ogg">
+    <source src="assets/baselines/gram/Steam_shovel.mp3">
+    <source src="assets/baselines/gram/Steam_shovel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Train_speeding_down_railroad_tracks_-_steam.png">Link</a>
+  <a href="assets/baselines/gram/Steam_shovel.png">Link</a>
 </td>
 </tr>
 
@@ -165,20 +165,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_steam.ogg">
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_steam.mp3">
-    <source src="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_steam.wav">
+    <source src="assets/baselines/full_loss/Steam_shovel.ogg">
+    <source src="assets/baselines/full_loss/Steam_shovel.mp3">
+    <source src="assets/baselines/full_loss/Steam_shovel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Train_speeding_down_railroad_tracks_-_steam.png">Link</a>
+  <a href="assets/baselines/full_loss/Steam_shovel.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Typewriter - IBM electric
+#### Stream near small waterfall
 
 <center>
 <table>
@@ -193,13 +193,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Typewriter_-_IBM_electric.ogg">
-    <source src="assets/baselines/original/Typewriter_-_IBM_electric.mp3">
-    <source src="assets/baselines/original/Typewriter_-_IBM_electric.wav">
+    <source src="assets/baselines/original/Stream_near_small_waterfall.ogg">
+    <source src="assets/baselines/original/Stream_near_small_waterfall.mp3">
+    <source src="assets/baselines/original/Stream_near_small_waterfall.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Typewriter_-_IBM_electric.png">Link</a>
+  <a href="assets/baselines/original/Stream_near_small_waterfall.png">Link</a>
 </td>
 </tr>
 
@@ -207,13 +207,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_electric.ogg">
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_electric.mp3">
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_electric.wav">
+    <source src="assets/baselines/mcdermott/Stream_near_small_waterfall.ogg">
+    <source src="assets/baselines/mcdermott/Stream_near_small_waterfall.mp3">
+    <source src="assets/baselines/mcdermott/Stream_near_small_waterfall.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Typewriter_-_IBM_electric.png">Link</a>
+  <a href="assets/baselines/mcdermott/Stream_near_small_waterfall.png">Link</a>
 </td>
 </tr>
 
@@ -221,13 +221,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_electric.ogg">
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_electric.mp3">
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_electric.wav">
+    <source src="assets/baselines/ulyanov/Stream_near_small_waterfall.ogg">
+    <source src="assets/baselines/ulyanov/Stream_near_small_waterfall.mp3">
+    <source src="assets/baselines/ulyanov/Stream_near_small_waterfall.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Typewriter_-_IBM_electric.png">Link</a>
+  <a href="assets/baselines/ulyanov/Stream_near_small_waterfall.png">Link</a>
 </td>
 </tr>
 
@@ -235,13 +235,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Typewriter_-_IBM_electric.ogg">
-    <source src="assets/baselines/gram/Typewriter_-_IBM_electric.mp3">
-    <source src="assets/baselines/gram/Typewriter_-_IBM_electric.wav">
+    <source src="assets/baselines/gram/Stream_near_small_waterfall.ogg">
+    <source src="assets/baselines/gram/Stream_near_small_waterfall.mp3">
+    <source src="assets/baselines/gram/Stream_near_small_waterfall.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Typewriter_-_IBM_electric.png">Link</a>
+  <a href="assets/baselines/gram/Stream_near_small_waterfall.png">Link</a>
 </td>
 </tr>
 
@@ -249,20 +249,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_electric.ogg">
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_electric.mp3">
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_electric.wav">
+    <source src="assets/baselines/full_loss/Stream_near_small_waterfall.ogg">
+    <source src="assets/baselines/full_loss/Stream_near_small_waterfall.mp3">
+    <source src="assets/baselines/full_loss/Stream_near_small_waterfall.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Typewriter_-_IBM_electric.png">Link</a>
+  <a href="assets/baselines/full_loss/Stream_near_small_waterfall.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Typewriter - IBM selectric
+#### Stream
 
 <center>
 <table>
@@ -277,13 +277,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Typewriter_-_IBM_selectric.ogg">
-    <source src="assets/baselines/original/Typewriter_-_IBM_selectric.mp3">
-    <source src="assets/baselines/original/Typewriter_-_IBM_selectric.wav">
+    <source src="assets/baselines/original/Stream.ogg">
+    <source src="assets/baselines/original/Stream.mp3">
+    <source src="assets/baselines/original/Stream.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Typewriter_-_IBM_selectric.png">Link</a>
+  <a href="assets/baselines/original/Stream.png">Link</a>
 </td>
 </tr>
 
@@ -291,13 +291,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_selectric.ogg">
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_selectric.mp3">
-    <source src="assets/baselines/mcdermott/Typewriter_-_IBM_selectric.wav">
+    <source src="assets/baselines/mcdermott/Stream.ogg">
+    <source src="assets/baselines/mcdermott/Stream.mp3">
+    <source src="assets/baselines/mcdermott/Stream.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Typewriter_-_IBM_selectric.png">Link</a>
+  <a href="assets/baselines/mcdermott/Stream.png">Link</a>
 </td>
 </tr>
 
@@ -305,13 +305,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_selectric.ogg">
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_selectric.mp3">
-    <source src="assets/baselines/ulyanov/Typewriter_-_IBM_selectric.wav">
+    <source src="assets/baselines/ulyanov/Stream.ogg">
+    <source src="assets/baselines/ulyanov/Stream.mp3">
+    <source src="assets/baselines/ulyanov/Stream.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Typewriter_-_IBM_selectric.png">Link</a>
+  <a href="assets/baselines/ulyanov/Stream.png">Link</a>
 </td>
 </tr>
 
@@ -319,13 +319,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Typewriter_-_IBM_selectric.ogg">
-    <source src="assets/baselines/gram/Typewriter_-_IBM_selectric.mp3">
-    <source src="assets/baselines/gram/Typewriter_-_IBM_selectric.wav">
+    <source src="assets/baselines/gram/Stream.ogg">
+    <source src="assets/baselines/gram/Stream.mp3">
+    <source src="assets/baselines/gram/Stream.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Typewriter_-_IBM_selectric.png">Link</a>
+  <a href="assets/baselines/gram/Stream.png">Link</a>
 </td>
 </tr>
 
@@ -333,20 +333,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_selectric.ogg">
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_selectric.mp3">
-    <source src="assets/baselines/full_loss/Typewriter_-_IBM_selectric.wav">
+    <source src="assets/baselines/full_loss/Stream.ogg">
+    <source src="assets/baselines/full_loss/Stream.mp3">
+    <source src="assets/baselines/full_loss/Stream.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Typewriter_-_IBM_selectric.png">Link</a>
+  <a href="assets/baselines/full_loss/Stream.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Typewriter - manual
+#### Surf hitting beach
 
 <center>
 <table>
@@ -361,13 +361,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Typewriter_-_manual.ogg">
-    <source src="assets/baselines/original/Typewriter_-_manual.mp3">
-    <source src="assets/baselines/original/Typewriter_-_manual.wav">
+    <source src="assets/baselines/original/Surf_hitting_beach.ogg">
+    <source src="assets/baselines/original/Surf_hitting_beach.mp3">
+    <source src="assets/baselines/original/Surf_hitting_beach.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Typewriter_-_manual.png">Link</a>
+  <a href="assets/baselines/original/Surf_hitting_beach.png">Link</a>
 </td>
 </tr>
 
@@ -375,13 +375,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Typewriter_-_manual.ogg">
-    <source src="assets/baselines/mcdermott/Typewriter_-_manual.mp3">
-    <source src="assets/baselines/mcdermott/Typewriter_-_manual.wav">
+    <source src="assets/baselines/mcdermott/Surf_hitting_beach.ogg">
+    <source src="assets/baselines/mcdermott/Surf_hitting_beach.mp3">
+    <source src="assets/baselines/mcdermott/Surf_hitting_beach.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Typewriter_-_manual.png">Link</a>
+  <a href="assets/baselines/mcdermott/Surf_hitting_beach.png">Link</a>
 </td>
 </tr>
 
@@ -389,13 +389,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Typewriter_-_manual.ogg">
-    <source src="assets/baselines/ulyanov/Typewriter_-_manual.mp3">
-    <source src="assets/baselines/ulyanov/Typewriter_-_manual.wav">
+    <source src="assets/baselines/ulyanov/Surf_hitting_beach.ogg">
+    <source src="assets/baselines/ulyanov/Surf_hitting_beach.mp3">
+    <source src="assets/baselines/ulyanov/Surf_hitting_beach.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Typewriter_-_manual.png">Link</a>
+  <a href="assets/baselines/ulyanov/Surf_hitting_beach.png">Link</a>
 </td>
 </tr>
 
@@ -403,13 +403,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Typewriter_-_manual.ogg">
-    <source src="assets/baselines/gram/Typewriter_-_manual.mp3">
-    <source src="assets/baselines/gram/Typewriter_-_manual.wav">
+    <source src="assets/baselines/gram/Surf_hitting_beach.ogg">
+    <source src="assets/baselines/gram/Surf_hitting_beach.mp3">
+    <source src="assets/baselines/gram/Surf_hitting_beach.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Typewriter_-_manual.png">Link</a>
+  <a href="assets/baselines/gram/Surf_hitting_beach.png">Link</a>
 </td>
 </tr>
 
@@ -417,20 +417,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Typewriter_-_manual.ogg">
-    <source src="assets/baselines/full_loss/Typewriter_-_manual.mp3">
-    <source src="assets/baselines/full_loss/Typewriter_-_manual.wav">
+    <source src="assets/baselines/full_loss/Surf_hitting_beach.ogg">
+    <source src="assets/baselines/full_loss/Surf_hitting_beach.mp3">
+    <source src="assets/baselines/full_loss/Surf_hitting_beach.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Typewriter_-_manual.png">Link</a>
+  <a href="assets/baselines/full_loss/Surf_hitting_beach.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Typewriter - old
+#### Teletype - city room
 
 <center>
 <table>
@@ -445,13 +445,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Typewriter_-_old.ogg">
-    <source src="assets/baselines/original/Typewriter_-_old.mp3">
-    <source src="assets/baselines/original/Typewriter_-_old.wav">
+    <source src="assets/baselines/original/Teletype_-_city_room.ogg">
+    <source src="assets/baselines/original/Teletype_-_city_room.mp3">
+    <source src="assets/baselines/original/Teletype_-_city_room.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Typewriter_-_old.png">Link</a>
+  <a href="assets/baselines/original/Teletype_-_city_room.png">Link</a>
 </td>
 </tr>
 
@@ -459,13 +459,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Typewriter_-_old.ogg">
-    <source src="assets/baselines/mcdermott/Typewriter_-_old.mp3">
-    <source src="assets/baselines/mcdermott/Typewriter_-_old.wav">
+    <source src="assets/baselines/mcdermott/Teletype_-_city_room.ogg">
+    <source src="assets/baselines/mcdermott/Teletype_-_city_room.mp3">
+    <source src="assets/baselines/mcdermott/Teletype_-_city_room.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Typewriter_-_old.png">Link</a>
+  <a href="assets/baselines/mcdermott/Teletype_-_city_room.png">Link</a>
 </td>
 </tr>
 
@@ -473,13 +473,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Typewriter_-_old.ogg">
-    <source src="assets/baselines/ulyanov/Typewriter_-_old.mp3">
-    <source src="assets/baselines/ulyanov/Typewriter_-_old.wav">
+    <source src="assets/baselines/ulyanov/Teletype_-_city_room.ogg">
+    <source src="assets/baselines/ulyanov/Teletype_-_city_room.mp3">
+    <source src="assets/baselines/ulyanov/Teletype_-_city_room.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Typewriter_-_old.png">Link</a>
+  <a href="assets/baselines/ulyanov/Teletype_-_city_room.png">Link</a>
 </td>
 </tr>
 
@@ -487,13 +487,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Typewriter_-_old.ogg">
-    <source src="assets/baselines/gram/Typewriter_-_old.mp3">
-    <source src="assets/baselines/gram/Typewriter_-_old.wav">
+    <source src="assets/baselines/gram/Teletype_-_city_room.ogg">
+    <source src="assets/baselines/gram/Teletype_-_city_room.mp3">
+    <source src="assets/baselines/gram/Teletype_-_city_room.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Typewriter_-_old.png">Link</a>
+  <a href="assets/baselines/gram/Teletype_-_city_room.png">Link</a>
 </td>
 </tr>
 
@@ -501,20 +501,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Typewriter_-_old.ogg">
-    <source src="assets/baselines/full_loss/Typewriter_-_old.mp3">
-    <source src="assets/baselines/full_loss/Typewriter_-_old.wav">
+    <source src="assets/baselines/full_loss/Teletype_-_city_room.ogg">
+    <source src="assets/baselines/full_loss/Teletype_-_city_room.mp3">
+    <source src="assets/baselines/full_loss/Teletype_-_city_room.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Typewriter_-_old.png">Link</a>
+  <a href="assets/baselines/full_loss/Teletype_-_city_room.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Vacuum cleaner
+#### Teletype
 
 <center>
 <table>
@@ -529,13 +529,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Vacuum_cleaner.ogg">
-    <source src="assets/baselines/original/Vacuum_cleaner.mp3">
-    <source src="assets/baselines/original/Vacuum_cleaner.wav">
+    <source src="assets/baselines/original/Teletype.ogg">
+    <source src="assets/baselines/original/Teletype.mp3">
+    <source src="assets/baselines/original/Teletype.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Vacuum_cleaner.png">Link</a>
+  <a href="assets/baselines/original/Teletype.png">Link</a>
 </td>
 </tr>
 
@@ -543,13 +543,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Vacuum_cleaner.ogg">
-    <source src="assets/baselines/mcdermott/Vacuum_cleaner.mp3">
-    <source src="assets/baselines/mcdermott/Vacuum_cleaner.wav">
+    <source src="assets/baselines/mcdermott/Teletype.ogg">
+    <source src="assets/baselines/mcdermott/Teletype.mp3">
+    <source src="assets/baselines/mcdermott/Teletype.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Vacuum_cleaner.png">Link</a>
+  <a href="assets/baselines/mcdermott/Teletype.png">Link</a>
 </td>
 </tr>
 
@@ -557,13 +557,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Vacuum_cleaner.ogg">
-    <source src="assets/baselines/ulyanov/Vacuum_cleaner.mp3">
-    <source src="assets/baselines/ulyanov/Vacuum_cleaner.wav">
+    <source src="assets/baselines/ulyanov/Teletype.ogg">
+    <source src="assets/baselines/ulyanov/Teletype.mp3">
+    <source src="assets/baselines/ulyanov/Teletype.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Vacuum_cleaner.png">Link</a>
+  <a href="assets/baselines/ulyanov/Teletype.png">Link</a>
 </td>
 </tr>
 
@@ -571,13 +571,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Vacuum_cleaner.ogg">
-    <source src="assets/baselines/gram/Vacuum_cleaner.mp3">
-    <source src="assets/baselines/gram/Vacuum_cleaner.wav">
+    <source src="assets/baselines/gram/Teletype.ogg">
+    <source src="assets/baselines/gram/Teletype.mp3">
+    <source src="assets/baselines/gram/Teletype.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Vacuum_cleaner.png">Link</a>
+  <a href="assets/baselines/gram/Teletype.png">Link</a>
 </td>
 </tr>
 
@@ -585,20 +585,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Vacuum_cleaner.ogg">
-    <source src="assets/baselines/full_loss/Vacuum_cleaner.mp3">
-    <source src="assets/baselines/full_loss/Vacuum_cleaner.wav">
+    <source src="assets/baselines/full_loss/Teletype.ogg">
+    <source src="assets/baselines/full_loss/Teletype.mp3">
+    <source src="assets/baselines/full_loss/Teletype.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Vacuum_cleaner.png">Link</a>
+  <a href="assets/baselines/full_loss/Teletype.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Waterfall
+#### Thunder and rain
 
 <center>
 <table>
@@ -613,13 +613,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Waterfall.ogg">
-    <source src="assets/baselines/original/Waterfall.mp3">
-    <source src="assets/baselines/original/Waterfall.wav">
+    <source src="assets/baselines/original/Thunder_and_rain.ogg">
+    <source src="assets/baselines/original/Thunder_and_rain.mp3">
+    <source src="assets/baselines/original/Thunder_and_rain.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Waterfall.png">Link</a>
+  <a href="assets/baselines/original/Thunder_and_rain.png">Link</a>
 </td>
 </tr>
 
@@ -627,13 +627,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Waterfall.ogg">
-    <source src="assets/baselines/mcdermott/Waterfall.mp3">
-    <source src="assets/baselines/mcdermott/Waterfall.wav">
+    <source src="assets/baselines/mcdermott/Thunder_and_rain.ogg">
+    <source src="assets/baselines/mcdermott/Thunder_and_rain.mp3">
+    <source src="assets/baselines/mcdermott/Thunder_and_rain.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Waterfall.png">Link</a>
+  <a href="assets/baselines/mcdermott/Thunder_and_rain.png">Link</a>
 </td>
 </tr>
 
@@ -641,13 +641,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Waterfall.ogg">
-    <source src="assets/baselines/ulyanov/Waterfall.mp3">
-    <source src="assets/baselines/ulyanov/Waterfall.wav">
+    <source src="assets/baselines/ulyanov/Thunder_and_rain.ogg">
+    <source src="assets/baselines/ulyanov/Thunder_and_rain.mp3">
+    <source src="assets/baselines/ulyanov/Thunder_and_rain.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Waterfall.png">Link</a>
+  <a href="assets/baselines/ulyanov/Thunder_and_rain.png">Link</a>
 </td>
 </tr>
 
@@ -655,13 +655,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Waterfall.ogg">
-    <source src="assets/baselines/gram/Waterfall.mp3">
-    <source src="assets/baselines/gram/Waterfall.wav">
+    <source src="assets/baselines/gram/Thunder_and_rain.ogg">
+    <source src="assets/baselines/gram/Thunder_and_rain.mp3">
+    <source src="assets/baselines/gram/Thunder_and_rain.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Waterfall.png">Link</a>
+  <a href="assets/baselines/gram/Thunder_and_rain.png">Link</a>
 </td>
 </tr>
 
@@ -669,20 +669,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Waterfall.ogg">
-    <source src="assets/baselines/full_loss/Waterfall.mp3">
-    <source src="assets/baselines/full_loss/Waterfall.wav">
+    <source src="assets/baselines/full_loss/Thunder_and_rain.ogg">
+    <source src="assets/baselines/full_loss/Thunder_and_rain.mp3">
+    <source src="assets/baselines/full_loss/Thunder_and_rain.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Waterfall.png">Link</a>
+  <a href="assets/baselines/full_loss/Thunder_and_rain.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Water lapping gently
+#### Tire rolling on gravel
 
 <center>
 <table>
@@ -697,13 +697,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Water_lapping_gently.ogg">
-    <source src="assets/baselines/original/Water_lapping_gently.mp3">
-    <source src="assets/baselines/original/Water_lapping_gently.wav">
+    <source src="assets/baselines/original/Tire_rolling_on_gravel.ogg">
+    <source src="assets/baselines/original/Tire_rolling_on_gravel.mp3">
+    <source src="assets/baselines/original/Tire_rolling_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Water_lapping_gently.png">Link</a>
+  <a href="assets/baselines/original/Tire_rolling_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -711,13 +711,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Water_lapping_gently.ogg">
-    <source src="assets/baselines/mcdermott/Water_lapping_gently.mp3">
-    <source src="assets/baselines/mcdermott/Water_lapping_gently.wav">
+    <source src="assets/baselines/mcdermott/Tire_rolling_on_gravel.ogg">
+    <source src="assets/baselines/mcdermott/Tire_rolling_on_gravel.mp3">
+    <source src="assets/baselines/mcdermott/Tire_rolling_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Water_lapping_gently.png">Link</a>
+  <a href="assets/baselines/mcdermott/Tire_rolling_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -725,13 +725,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Water_lapping_gently.ogg">
-    <source src="assets/baselines/ulyanov/Water_lapping_gently.mp3">
-    <source src="assets/baselines/ulyanov/Water_lapping_gently.wav">
+    <source src="assets/baselines/ulyanov/Tire_rolling_on_gravel.ogg">
+    <source src="assets/baselines/ulyanov/Tire_rolling_on_gravel.mp3">
+    <source src="assets/baselines/ulyanov/Tire_rolling_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Water_lapping_gently.png">Link</a>
+  <a href="assets/baselines/ulyanov/Tire_rolling_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -739,13 +739,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Water_lapping_gently.ogg">
-    <source src="assets/baselines/gram/Water_lapping_gently.mp3">
-    <source src="assets/baselines/gram/Water_lapping_gently.wav">
+    <source src="assets/baselines/gram/Tire_rolling_on_gravel.ogg">
+    <source src="assets/baselines/gram/Tire_rolling_on_gravel.mp3">
+    <source src="assets/baselines/gram/Tire_rolling_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Water_lapping_gently.png">Link</a>
+  <a href="assets/baselines/gram/Tire_rolling_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -753,20 +753,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Water_lapping_gently.ogg">
-    <source src="assets/baselines/full_loss/Water_lapping_gently.mp3">
-    <source src="assets/baselines/full_loss/Water_lapping_gently.wav">
+    <source src="assets/baselines/full_loss/Tire_rolling_on_gravel.ogg">
+    <source src="assets/baselines/full_loss/Tire_rolling_on_gravel.mp3">
+    <source src="assets/baselines/full_loss/Tire_rolling_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Water_lapping_gently.png">Link</a>
+  <a href="assets/baselines/full_loss/Tire_rolling_on_gravel.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Water running into sink
+#### Train locomotive - steam engine
 
 <center>
 <table>
@@ -781,13 +781,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Water_running_into_sink.ogg">
-    <source src="assets/baselines/original/Water_running_into_sink.mp3">
-    <source src="assets/baselines/original/Water_running_into_sink.wav">
+    <source src="assets/baselines/original/Train_locomotive_-_steam_engine.ogg">
+    <source src="assets/baselines/original/Train_locomotive_-_steam_engine.mp3">
+    <source src="assets/baselines/original/Train_locomotive_-_steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Water_running_into_sink.png">Link</a>
+  <a href="assets/baselines/original/Train_locomotive_-_steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -795,13 +795,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Water_running_into_sink.ogg">
-    <source src="assets/baselines/mcdermott/Water_running_into_sink.mp3">
-    <source src="assets/baselines/mcdermott/Water_running_into_sink.wav">
+    <source src="assets/baselines/mcdermott/Train_locomotive_-_steam_engine.ogg">
+    <source src="assets/baselines/mcdermott/Train_locomotive_-_steam_engine.mp3">
+    <source src="assets/baselines/mcdermott/Train_locomotive_-_steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Water_running_into_sink.png">Link</a>
+  <a href="assets/baselines/mcdermott/Train_locomotive_-_steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -809,13 +809,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Water_running_into_sink.ogg">
-    <source src="assets/baselines/ulyanov/Water_running_into_sink.mp3">
-    <source src="assets/baselines/ulyanov/Water_running_into_sink.wav">
+    <source src="assets/baselines/ulyanov/Train_locomotive_-_steam_engine.ogg">
+    <source src="assets/baselines/ulyanov/Train_locomotive_-_steam_engine.mp3">
+    <source src="assets/baselines/ulyanov/Train_locomotive_-_steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Water_running_into_sink.png">Link</a>
+  <a href="assets/baselines/ulyanov/Train_locomotive_-_steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -823,13 +823,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Water_running_into_sink.ogg">
-    <source src="assets/baselines/gram/Water_running_into_sink.mp3">
-    <source src="assets/baselines/gram/Water_running_into_sink.wav">
+    <source src="assets/baselines/gram/Train_locomotive_-_steam_engine.ogg">
+    <source src="assets/baselines/gram/Train_locomotive_-_steam_engine.mp3">
+    <source src="assets/baselines/gram/Train_locomotive_-_steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Water_running_into_sink.png">Link</a>
+  <a href="assets/baselines/gram/Train_locomotive_-_steam_engine.png">Link</a>
 </td>
 </tr>
 
@@ -837,13 +837,13 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Water_running_into_sink.ogg">
-    <source src="assets/baselines/full_loss/Water_running_into_sink.mp3">
-    <source src="assets/baselines/full_loss/Water_running_into_sink.wav">
+    <source src="assets/baselines/full_loss/Train_locomotive_-_steam_engine.ogg">
+    <source src="assets/baselines/full_loss/Train_locomotive_-_steam_engine.mp3">
+    <source src="assets/baselines/full_loss/Train_locomotive_-_steam_engine.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Water_running_into_sink.png">Link</a>
+  <a href="assets/baselines/full_loss/Train_locomotive_-_steam_engine.png">Link</a>
 </td>
 </tr>
 

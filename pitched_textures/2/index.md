@@ -10,4 +10,256 @@
 
 ### Pitched textures
 
+#### Tambourine shaking
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Tambourine_shaking.ogg">
+    <source src="assets/baselines/original/Tambourine_shaking.mp3">
+    <source src="assets/baselines/original/Tambourine_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Tambourine_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Tambourine_shaking.ogg">
+    <source src="assets/baselines/mcdermott/Tambourine_shaking.mp3">
+    <source src="assets/baselines/mcdermott/Tambourine_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Tambourine_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Tambourine_shaking.ogg">
+    <source src="assets/baselines/ulyanov/Tambourine_shaking.mp3">
+    <source src="assets/baselines/ulyanov/Tambourine_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Tambourine_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Tambourine_shaking.ogg">
+    <source src="assets/baselines/gram/Tambourine_shaking.mp3">
+    <source src="assets/baselines/gram/Tambourine_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Tambourine_shaking.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Tambourine_shaking.ogg">
+    <source src="assets/baselines/full_loss/Tambourine_shaking.mp3">
+    <source src="assets/baselines/full_loss/Tambourine_shaking.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Tambourine_shaking.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wind chimes
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wind_chimes.ogg">
+    <source src="assets/baselines/original/Wind_chimes.mp3">
+    <source src="assets/baselines/original/Wind_chimes.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wind_chimes.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wind_chimes.ogg">
+    <source src="assets/baselines/mcdermott/Wind_chimes.mp3">
+    <source src="assets/baselines/mcdermott/Wind_chimes.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wind_chimes.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wind_chimes.ogg">
+    <source src="assets/baselines/ulyanov/Wind_chimes.mp3">
+    <source src="assets/baselines/ulyanov/Wind_chimes.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wind_chimes.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wind_chimes.ogg">
+    <source src="assets/baselines/gram/Wind_chimes.mp3">
+    <source src="assets/baselines/gram/Wind_chimes.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wind_chimes.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wind_chimes.ogg">
+    <source src="assets/baselines/full_loss/Wind_chimes.mp3">
+    <source src="assets/baselines/full_loss/Wind_chimes.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wind_chimes.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wolves howling
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wolves_howling.ogg">
+    <source src="assets/baselines/original/Wolves_howling.mp3">
+    <source src="assets/baselines/original/Wolves_howling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wolves_howling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wolves_howling.ogg">
+    <source src="assets/baselines/mcdermott/Wolves_howling.mp3">
+    <source src="assets/baselines/mcdermott/Wolves_howling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wolves_howling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wolves_howling.ogg">
+    <source src="assets/baselines/ulyanov/Wolves_howling.mp3">
+    <source src="assets/baselines/ulyanov/Wolves_howling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wolves_howling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wolves_howling.ogg">
+    <source src="assets/baselines/gram/Wolves_howling.mp3">
+    <source src="assets/baselines/gram/Wolves_howling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wolves_howling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wolves_howling.ogg">
+    <source src="assets/baselines/full_loss/Wolves_howling.mp3">
+    <source src="assets/baselines/full_loss/Wolves_howling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wolves_howling.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
 [Prev page](pitched_textures/1/index.md) | 

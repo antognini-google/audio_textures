@@ -10,7 +10,7 @@
 
 ### Rhythmic textures
 
-#### Tambourine shaking
+#### Horse trotting on cobblestones
 
 <center>
 <table>
@@ -25,13 +25,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tambourine_shaking.ogg">
-    <source src="assets/baselines/original/Tambourine_shaking.mp3">
-    <source src="assets/baselines/original/Tambourine_shaking.wav">
+    <source src="assets/baselines/original/Horse_trotting_on_cobblestones.ogg">
+    <source src="assets/baselines/original/Horse_trotting_on_cobblestones.mp3">
+    <source src="assets/baselines/original/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/original/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -39,13 +39,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.ogg">
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.mp3">
-    <source src="assets/baselines/mcdermott/Tambourine_shaking.wav">
+    <source src="assets/baselines/mcdermott/Horse_trotting_on_cobblestones.ogg">
+    <source src="assets/baselines/mcdermott/Horse_trotting_on_cobblestones.mp3">
+    <source src="assets/baselines/mcdermott/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/mcdermott/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -53,13 +53,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.ogg">
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.mp3">
-    <source src="assets/baselines/ulyanov/Tambourine_shaking.wav">
+    <source src="assets/baselines/ulyanov/Horse_trotting_on_cobblestones.ogg">
+    <source src="assets/baselines/ulyanov/Horse_trotting_on_cobblestones.mp3">
+    <source src="assets/baselines/ulyanov/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/ulyanov/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -67,13 +67,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tambourine_shaking.ogg">
-    <source src="assets/baselines/gram/Tambourine_shaking.mp3">
-    <source src="assets/baselines/gram/Tambourine_shaking.wav">
+    <source src="assets/baselines/gram/Horse_trotting_on_cobblestones.ogg">
+    <source src="assets/baselines/gram/Horse_trotting_on_cobblestones.mp3">
+    <source src="assets/baselines/gram/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/gram/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -81,20 +81,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tambourine_shaking.ogg">
-    <source src="assets/baselines/full_loss/Tambourine_shaking.mp3">
-    <source src="assets/baselines/full_loss/Tambourine_shaking.wav">
+    <source src="assets/baselines/full_loss/Horse_trotting_on_cobblestones.ogg">
+    <source src="assets/baselines/full_loss/Horse_trotting_on_cobblestones.mp3">
+    <source src="assets/baselines/full_loss/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tambourine_shaking.png">Link</a>
+  <a href="assets/baselines/full_loss/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Tapping  1-2-3
+#### Horse walking in snow
 
 <center>
 <table>
@@ -109,13 +109,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tapping__1-2-3.ogg">
-    <source src="assets/baselines/original/Tapping__1-2-3.mp3">
-    <source src="assets/baselines/original/Tapping__1-2-3.wav">
+    <source src="assets/baselines/original/Horse_walking_in_snow.ogg">
+    <source src="assets/baselines/original/Horse_walking_in_snow.mp3">
+    <source src="assets/baselines/original/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tapping__1-2-3.png">Link</a>
+  <a href="assets/baselines/original/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -123,13 +123,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tapping__1-2-3.ogg">
-    <source src="assets/baselines/mcdermott/Tapping__1-2-3.mp3">
-    <source src="assets/baselines/mcdermott/Tapping__1-2-3.wav">
+    <source src="assets/baselines/mcdermott/Horse_walking_in_snow.ogg">
+    <source src="assets/baselines/mcdermott/Horse_walking_in_snow.mp3">
+    <source src="assets/baselines/mcdermott/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tapping__1-2-3.png">Link</a>
+  <a href="assets/baselines/mcdermott/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -137,13 +137,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tapping__1-2-3.ogg">
-    <source src="assets/baselines/ulyanov/Tapping__1-2-3.mp3">
-    <source src="assets/baselines/ulyanov/Tapping__1-2-3.wav">
+    <source src="assets/baselines/ulyanov/Horse_walking_in_snow.ogg">
+    <source src="assets/baselines/ulyanov/Horse_walking_in_snow.mp3">
+    <source src="assets/baselines/ulyanov/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tapping__1-2-3.png">Link</a>
+  <a href="assets/baselines/ulyanov/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -151,13 +151,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tapping__1-2-3.ogg">
-    <source src="assets/baselines/gram/Tapping__1-2-3.mp3">
-    <source src="assets/baselines/gram/Tapping__1-2-3.wav">
+    <source src="assets/baselines/gram/Horse_walking_in_snow.ogg">
+    <source src="assets/baselines/gram/Horse_walking_in_snow.mp3">
+    <source src="assets/baselines/gram/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tapping__1-2-3.png">Link</a>
+  <a href="assets/baselines/gram/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -165,20 +165,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tapping__1-2-3.ogg">
-    <source src="assets/baselines/full_loss/Tapping__1-2-3.mp3">
-    <source src="assets/baselines/full_loss/Tapping__1-2-3.wav">
+    <source src="assets/baselines/full_loss/Horse_walking_in_snow.ogg">
+    <source src="assets/baselines/full_loss/Horse_walking_in_snow.mp3">
+    <source src="assets/baselines/full_loss/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tapping__1-2-3.png">Link</a>
+  <a href="assets/baselines/full_loss/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Tapping 1-2
+#### Jogging on gravel
 
 <center>
 <table>
@@ -193,13 +193,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tapping_1-2.ogg">
-    <source src="assets/baselines/original/Tapping_1-2.mp3">
-    <source src="assets/baselines/original/Tapping_1-2.wav">
+    <source src="assets/baselines/original/Jogging_on_gravel.ogg">
+    <source src="assets/baselines/original/Jogging_on_gravel.mp3">
+    <source src="assets/baselines/original/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tapping_1-2.png">Link</a>
+  <a href="assets/baselines/original/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -207,13 +207,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tapping_1-2.ogg">
-    <source src="assets/baselines/mcdermott/Tapping_1-2.mp3">
-    <source src="assets/baselines/mcdermott/Tapping_1-2.wav">
+    <source src="assets/baselines/mcdermott/Jogging_on_gravel.ogg">
+    <source src="assets/baselines/mcdermott/Jogging_on_gravel.mp3">
+    <source src="assets/baselines/mcdermott/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tapping_1-2.png">Link</a>
+  <a href="assets/baselines/mcdermott/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -221,13 +221,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tapping_1-2.ogg">
-    <source src="assets/baselines/ulyanov/Tapping_1-2.mp3">
-    <source src="assets/baselines/ulyanov/Tapping_1-2.wav">
+    <source src="assets/baselines/ulyanov/Jogging_on_gravel.ogg">
+    <source src="assets/baselines/ulyanov/Jogging_on_gravel.mp3">
+    <source src="assets/baselines/ulyanov/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tapping_1-2.png">Link</a>
+  <a href="assets/baselines/ulyanov/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -235,13 +235,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tapping_1-2.ogg">
-    <source src="assets/baselines/gram/Tapping_1-2.mp3">
-    <source src="assets/baselines/gram/Tapping_1-2.wav">
+    <source src="assets/baselines/gram/Jogging_on_gravel.ogg">
+    <source src="assets/baselines/gram/Jogging_on_gravel.mp3">
+    <source src="assets/baselines/gram/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tapping_1-2.png">Link</a>
+  <a href="assets/baselines/gram/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -249,20 +249,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tapping_1-2.ogg">
-    <source src="assets/baselines/full_loss/Tapping_1-2.mp3">
-    <source src="assets/baselines/full_loss/Tapping_1-2.wav">
+    <source src="assets/baselines/full_loss/Jogging_on_gravel.ogg">
+    <source src="assets/baselines/full_loss/Jogging_on_gravel.mp3">
+    <source src="assets/baselines/full_loss/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tapping_1-2.png">Link</a>
+  <a href="assets/baselines/full_loss/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Tapping on hard surface
+#### Men marching together
 
 <center>
 <table>
@@ -277,13 +277,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tapping_on_hard_surface.ogg">
-    <source src="assets/baselines/original/Tapping_on_hard_surface.mp3">
-    <source src="assets/baselines/original/Tapping_on_hard_surface.wav">
+    <source src="assets/baselines/original/Men_marching_together.ogg">
+    <source src="assets/baselines/original/Men_marching_together.mp3">
+    <source src="assets/baselines/original/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tapping_on_hard_surface.png">Link</a>
+  <a href="assets/baselines/original/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -291,13 +291,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tapping_on_hard_surface.ogg">
-    <source src="assets/baselines/mcdermott/Tapping_on_hard_surface.mp3">
-    <source src="assets/baselines/mcdermott/Tapping_on_hard_surface.wav">
+    <source src="assets/baselines/mcdermott/Men_marching_together.ogg">
+    <source src="assets/baselines/mcdermott/Men_marching_together.mp3">
+    <source src="assets/baselines/mcdermott/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tapping_on_hard_surface.png">Link</a>
+  <a href="assets/baselines/mcdermott/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -305,13 +305,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tapping_on_hard_surface.ogg">
-    <source src="assets/baselines/ulyanov/Tapping_on_hard_surface.mp3">
-    <source src="assets/baselines/ulyanov/Tapping_on_hard_surface.wav">
+    <source src="assets/baselines/ulyanov/Men_marching_together.ogg">
+    <source src="assets/baselines/ulyanov/Men_marching_together.mp3">
+    <source src="assets/baselines/ulyanov/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tapping_on_hard_surface.png">Link</a>
+  <a href="assets/baselines/ulyanov/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -319,13 +319,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tapping_on_hard_surface.ogg">
-    <source src="assets/baselines/gram/Tapping_on_hard_surface.mp3">
-    <source src="assets/baselines/gram/Tapping_on_hard_surface.wav">
+    <source src="assets/baselines/gram/Men_marching_together.ogg">
+    <source src="assets/baselines/gram/Men_marching_together.mp3">
+    <source src="assets/baselines/gram/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tapping_on_hard_surface.png">Link</a>
+  <a href="assets/baselines/gram/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -333,20 +333,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tapping_on_hard_surface.ogg">
-    <source src="assets/baselines/full_loss/Tapping_on_hard_surface.mp3">
-    <source src="assets/baselines/full_loss/Tapping_on_hard_surface.wav">
+    <source src="assets/baselines/full_loss/Men_marching_together.ogg">
+    <source src="assets/baselines/full_loss/Men_marching_together.mp3">
+    <source src="assets/baselines/full_loss/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tapping_on_hard_surface.png">Link</a>
+  <a href="assets/baselines/full_loss/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Tapping rhythm
+#### Railroad crossing
 
 <center>
 <table>
@@ -361,13 +361,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Tapping_rhythm.ogg">
-    <source src="assets/baselines/original/Tapping_rhythm.mp3">
-    <source src="assets/baselines/original/Tapping_rhythm.wav">
+    <source src="assets/baselines/original/Railroad_crossing.ogg">
+    <source src="assets/baselines/original/Railroad_crossing.mp3">
+    <source src="assets/baselines/original/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Tapping_rhythm.png">Link</a>
+  <a href="assets/baselines/original/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -375,13 +375,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Tapping_rhythm.ogg">
-    <source src="assets/baselines/mcdermott/Tapping_rhythm.mp3">
-    <source src="assets/baselines/mcdermott/Tapping_rhythm.wav">
+    <source src="assets/baselines/mcdermott/Railroad_crossing.ogg">
+    <source src="assets/baselines/mcdermott/Railroad_crossing.mp3">
+    <source src="assets/baselines/mcdermott/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Tapping_rhythm.png">Link</a>
+  <a href="assets/baselines/mcdermott/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -389,13 +389,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Tapping_rhythm.ogg">
-    <source src="assets/baselines/ulyanov/Tapping_rhythm.mp3">
-    <source src="assets/baselines/ulyanov/Tapping_rhythm.wav">
+    <source src="assets/baselines/ulyanov/Railroad_crossing.ogg">
+    <source src="assets/baselines/ulyanov/Railroad_crossing.mp3">
+    <source src="assets/baselines/ulyanov/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Tapping_rhythm.png">Link</a>
+  <a href="assets/baselines/ulyanov/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -403,13 +403,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Tapping_rhythm.ogg">
-    <source src="assets/baselines/gram/Tapping_rhythm.mp3">
-    <source src="assets/baselines/gram/Tapping_rhythm.wav">
+    <source src="assets/baselines/gram/Railroad_crossing.ogg">
+    <source src="assets/baselines/gram/Railroad_crossing.mp3">
+    <source src="assets/baselines/gram/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Tapping_rhythm.png">Link</a>
+  <a href="assets/baselines/gram/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -417,20 +417,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Tapping_rhythm.ogg">
-    <source src="assets/baselines/full_loss/Tapping_rhythm.mp3">
-    <source src="assets/baselines/full_loss/Tapping_rhythm.wav">
+    <source src="assets/baselines/full_loss/Railroad_crossing.ogg">
+    <source src="assets/baselines/full_loss/Railroad_crossing.mp3">
+    <source src="assets/baselines/full_loss/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Tapping_rhythm.png">Link</a>
+  <a href="assets/baselines/full_loss/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Walking on gravel
+#### Reverse drum beats - snare
 
 <center>
 <table>
@@ -445,13 +445,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Walking_on_gravel.ogg">
-    <source src="assets/baselines/original/Walking_on_gravel.mp3">
-    <source src="assets/baselines/original/Walking_on_gravel.wav">
+    <source src="assets/baselines/original/Reverse_drum_beats_-_snare.ogg">
+    <source src="assets/baselines/original/Reverse_drum_beats_-_snare.mp3">
+    <source src="assets/baselines/original/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Walking_on_gravel.png">Link</a>
+  <a href="assets/baselines/original/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -459,13 +459,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Walking_on_gravel.ogg">
-    <source src="assets/baselines/mcdermott/Walking_on_gravel.mp3">
-    <source src="assets/baselines/mcdermott/Walking_on_gravel.wav">
+    <source src="assets/baselines/mcdermott/Reverse_drum_beats_-_snare.ogg">
+    <source src="assets/baselines/mcdermott/Reverse_drum_beats_-_snare.mp3">
+    <source src="assets/baselines/mcdermott/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Walking_on_gravel.png">Link</a>
+  <a href="assets/baselines/mcdermott/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -473,13 +473,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Walking_on_gravel.ogg">
-    <source src="assets/baselines/ulyanov/Walking_on_gravel.mp3">
-    <source src="assets/baselines/ulyanov/Walking_on_gravel.wav">
+    <source src="assets/baselines/ulyanov/Reverse_drum_beats_-_snare.ogg">
+    <source src="assets/baselines/ulyanov/Reverse_drum_beats_-_snare.mp3">
+    <source src="assets/baselines/ulyanov/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Walking_on_gravel.png">Link</a>
+  <a href="assets/baselines/ulyanov/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -487,13 +487,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Walking_on_gravel.ogg">
-    <source src="assets/baselines/gram/Walking_on_gravel.mp3">
-    <source src="assets/baselines/gram/Walking_on_gravel.wav">
+    <source src="assets/baselines/gram/Reverse_drum_beats_-_snare.ogg">
+    <source src="assets/baselines/gram/Reverse_drum_beats_-_snare.mp3">
+    <source src="assets/baselines/gram/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Walking_on_gravel.png">Link</a>
+  <a href="assets/baselines/gram/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -501,20 +501,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Walking_on_gravel.ogg">
-    <source src="assets/baselines/full_loss/Walking_on_gravel.mp3">
-    <source src="assets/baselines/full_loss/Walking_on_gravel.wav">
+    <source src="assets/baselines/full_loss/Reverse_drum_beats_-_snare.ogg">
+    <source src="assets/baselines/full_loss/Reverse_drum_beats_-_snare.mp3">
+    <source src="assets/baselines/full_loss/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Walking_on_gravel.png">Link</a>
+  <a href="assets/baselines/full_loss/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Windshield wipers
+#### Rhythmic applause
 
 <center>
 <table>
@@ -529,13 +529,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Windshield_wipers.ogg">
-    <source src="assets/baselines/original/Windshield_wipers.mp3">
-    <source src="assets/baselines/original/Windshield_wipers.wav">
+    <source src="assets/baselines/original/Rhythmic_applause.ogg">
+    <source src="assets/baselines/original/Rhythmic_applause.mp3">
+    <source src="assets/baselines/original/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Windshield_wipers.png">Link</a>
+  <a href="assets/baselines/original/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -543,13 +543,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Windshield_wipers.ogg">
-    <source src="assets/baselines/mcdermott/Windshield_wipers.mp3">
-    <source src="assets/baselines/mcdermott/Windshield_wipers.wav">
+    <source src="assets/baselines/mcdermott/Rhythmic_applause.ogg">
+    <source src="assets/baselines/mcdermott/Rhythmic_applause.mp3">
+    <source src="assets/baselines/mcdermott/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Windshield_wipers.png">Link</a>
+  <a href="assets/baselines/mcdermott/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -557,13 +557,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Windshield_wipers.ogg">
-    <source src="assets/baselines/ulyanov/Windshield_wipers.mp3">
-    <source src="assets/baselines/ulyanov/Windshield_wipers.wav">
+    <source src="assets/baselines/ulyanov/Rhythmic_applause.ogg">
+    <source src="assets/baselines/ulyanov/Rhythmic_applause.mp3">
+    <source src="assets/baselines/ulyanov/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Windshield_wipers.png">Link</a>
+  <a href="assets/baselines/ulyanov/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -571,13 +571,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Windshield_wipers.ogg">
-    <source src="assets/baselines/gram/Windshield_wipers.mp3">
-    <source src="assets/baselines/gram/Windshield_wipers.wav">
+    <source src="assets/baselines/gram/Rhythmic_applause.ogg">
+    <source src="assets/baselines/gram/Rhythmic_applause.mp3">
+    <source src="assets/baselines/gram/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Windshield_wipers.png">Link</a>
+  <a href="assets/baselines/gram/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -585,13 +585,265 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Windshield_wipers.ogg">
-    <source src="assets/baselines/full_loss/Windshield_wipers.mp3">
-    <source src="assets/baselines/full_loss/Windshield_wipers.wav">
+    <source src="assets/baselines/full_loss/Rhythmic_applause.ogg">
+    <source src="assets/baselines/full_loss/Rhythmic_applause.mp3">
+    <source src="assets/baselines/full_loss/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Windshield_wipers.png">Link</a>
+  <a href="assets/baselines/full_loss/Rhythmic_applause.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Running up stairs
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Running_up_stairs.ogg">
+    <source src="assets/baselines/original/Running_up_stairs.mp3">
+    <source src="assets/baselines/original/Running_up_stairs.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Running_up_stairs.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Running_up_stairs.ogg">
+    <source src="assets/baselines/mcdermott/Running_up_stairs.mp3">
+    <source src="assets/baselines/mcdermott/Running_up_stairs.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Running_up_stairs.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Running_up_stairs.ogg">
+    <source src="assets/baselines/ulyanov/Running_up_stairs.mp3">
+    <source src="assets/baselines/ulyanov/Running_up_stairs.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Running_up_stairs.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Running_up_stairs.ogg">
+    <source src="assets/baselines/gram/Running_up_stairs.mp3">
+    <source src="assets/baselines/gram/Running_up_stairs.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Running_up_stairs.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Running_up_stairs.ogg">
+    <source src="assets/baselines/full_loss/Running_up_stairs.mp3">
+    <source src="assets/baselines/full_loss/Running_up_stairs.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Running_up_stairs.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Snare drum beats
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Snare_drum_beats.ogg">
+    <source src="assets/baselines/original/Snare_drum_beats.mp3">
+    <source src="assets/baselines/original/Snare_drum_beats.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Snare_drum_beats.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Snare_drum_beats.ogg">
+    <source src="assets/baselines/mcdermott/Snare_drum_beats.mp3">
+    <source src="assets/baselines/mcdermott/Snare_drum_beats.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Snare_drum_beats.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Snare_drum_beats.ogg">
+    <source src="assets/baselines/ulyanov/Snare_drum_beats.mp3">
+    <source src="assets/baselines/ulyanov/Snare_drum_beats.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Snare_drum_beats.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Snare_drum_beats.ogg">
+    <source src="assets/baselines/gram/Snare_drum_beats.mp3">
+    <source src="assets/baselines/gram/Snare_drum_beats.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Snare_drum_beats.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Snare_drum_beats.ogg">
+    <source src="assets/baselines/full_loss/Snare_drum_beats.mp3">
+    <source src="assets/baselines/full_loss/Snare_drum_beats.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Snare_drum_beats.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Snare rimshot sequence
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Snare_rimshot_sequence.ogg">
+    <source src="assets/baselines/original/Snare_rimshot_sequence.mp3">
+    <source src="assets/baselines/original/Snare_rimshot_sequence.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Snare_rimshot_sequence.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Snare_rimshot_sequence.ogg">
+    <source src="assets/baselines/mcdermott/Snare_rimshot_sequence.mp3">
+    <source src="assets/baselines/mcdermott/Snare_rimshot_sequence.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Snare_rimshot_sequence.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Snare_rimshot_sequence.ogg">
+    <source src="assets/baselines/ulyanov/Snare_rimshot_sequence.mp3">
+    <source src="assets/baselines/ulyanov/Snare_rimshot_sequence.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Snare_rimshot_sequence.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Snare_rimshot_sequence.ogg">
+    <source src="assets/baselines/gram/Snare_rimshot_sequence.mp3">
+    <source src="assets/baselines/gram/Snare_rimshot_sequence.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Snare_rimshot_sequence.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Snare_rimshot_sequence.ogg">
+    <source src="assets/baselines/full_loss/Snare_rimshot_sequence.mp3">
+    <source src="assets/baselines/full_loss/Snare_rimshot_sequence.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 

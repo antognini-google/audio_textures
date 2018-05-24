@@ -10,4 +10,592 @@
 
 ### Stationary textures
 
+#### Water trickling into pool
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Water_trickling_into_pool.ogg">
+    <source src="assets/baselines/original/Water_trickling_into_pool.mp3">
+    <source src="assets/baselines/original/Water_trickling_into_pool.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Water_trickling_into_pool.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Water_trickling_into_pool.ogg">
+    <source src="assets/baselines/mcdermott/Water_trickling_into_pool.mp3">
+    <source src="assets/baselines/mcdermott/Water_trickling_into_pool.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Water_trickling_into_pool.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Water_trickling_into_pool.ogg">
+    <source src="assets/baselines/ulyanov/Water_trickling_into_pool.mp3">
+    <source src="assets/baselines/ulyanov/Water_trickling_into_pool.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Water_trickling_into_pool.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Water_trickling_into_pool.ogg">
+    <source src="assets/baselines/gram/Water_trickling_into_pool.mp3">
+    <source src="assets/baselines/gram/Water_trickling_into_pool.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Water_trickling_into_pool.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Water_trickling_into_pool.ogg">
+    <source src="assets/baselines/full_loss/Water_trickling_into_pool.mp3">
+    <source src="assets/baselines/full_loss/Water_trickling_into_pool.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Water_trickling_into_pool.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wind - blowing
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wind_-_blowing.ogg">
+    <source src="assets/baselines/original/Wind_-_blowing.mp3">
+    <source src="assets/baselines/original/Wind_-_blowing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wind_-_blowing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wind_-_blowing.ogg">
+    <source src="assets/baselines/mcdermott/Wind_-_blowing.mp3">
+    <source src="assets/baselines/mcdermott/Wind_-_blowing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wind_-_blowing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wind_-_blowing.ogg">
+    <source src="assets/baselines/ulyanov/Wind_-_blowing.mp3">
+    <source src="assets/baselines/ulyanov/Wind_-_blowing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wind_-_blowing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wind_-_blowing.ogg">
+    <source src="assets/baselines/gram/Wind_-_blowing.mp3">
+    <source src="assets/baselines/gram/Wind_-_blowing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wind_-_blowing.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wind_-_blowing.ogg">
+    <source src="assets/baselines/full_loss/Wind_-_blowing.mp3">
+    <source src="assets/baselines/full_loss/Wind_-_blowing.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wind_-_blowing.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wind - moaning
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wind_-_moaning.ogg">
+    <source src="assets/baselines/original/Wind_-_moaning.mp3">
+    <source src="assets/baselines/original/Wind_-_moaning.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wind_-_moaning.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wind_-_moaning.ogg">
+    <source src="assets/baselines/mcdermott/Wind_-_moaning.mp3">
+    <source src="assets/baselines/mcdermott/Wind_-_moaning.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wind_-_moaning.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wind_-_moaning.ogg">
+    <source src="assets/baselines/ulyanov/Wind_-_moaning.mp3">
+    <source src="assets/baselines/ulyanov/Wind_-_moaning.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wind_-_moaning.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wind_-_moaning.ogg">
+    <source src="assets/baselines/gram/Wind_-_moaning.mp3">
+    <source src="assets/baselines/gram/Wind_-_moaning.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wind_-_moaning.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wind_-_moaning.ogg">
+    <source src="assets/baselines/full_loss/Wind_-_moaning.mp3">
+    <source src="assets/baselines/full_loss/Wind_-_moaning.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wind_-_moaning.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wind - spooky
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wind_-_spooky.ogg">
+    <source src="assets/baselines/original/Wind_-_spooky.mp3">
+    <source src="assets/baselines/original/Wind_-_spooky.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wind_-_spooky.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wind_-_spooky.ogg">
+    <source src="assets/baselines/mcdermott/Wind_-_spooky.mp3">
+    <source src="assets/baselines/mcdermott/Wind_-_spooky.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wind_-_spooky.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wind_-_spooky.ogg">
+    <source src="assets/baselines/ulyanov/Wind_-_spooky.mp3">
+    <source src="assets/baselines/ulyanov/Wind_-_spooky.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wind_-_spooky.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wind_-_spooky.ogg">
+    <source src="assets/baselines/gram/Wind_-_spooky.mp3">
+    <source src="assets/baselines/gram/Wind_-_spooky.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wind_-_spooky.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wind_-_spooky.ogg">
+    <source src="assets/baselines/full_loss/Wind_-_spooky.mp3">
+    <source src="assets/baselines/full_loss/Wind_-_spooky.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wind_-_spooky.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Wind - whistling
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Wind_-_whistling.ogg">
+    <source src="assets/baselines/original/Wind_-_whistling.mp3">
+    <source src="assets/baselines/original/Wind_-_whistling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Wind_-_whistling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Wind_-_whistling.ogg">
+    <source src="assets/baselines/mcdermott/Wind_-_whistling.mp3">
+    <source src="assets/baselines/mcdermott/Wind_-_whistling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Wind_-_whistling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Wind_-_whistling.ogg">
+    <source src="assets/baselines/ulyanov/Wind_-_whistling.mp3">
+    <source src="assets/baselines/ulyanov/Wind_-_whistling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Wind_-_whistling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Wind_-_whistling.ogg">
+    <source src="assets/baselines/gram/Wind_-_whistling.mp3">
+    <source src="assets/baselines/gram/Wind_-_whistling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Wind_-_whistling.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Wind_-_whistling.ogg">
+    <source src="assets/baselines/full_loss/Wind_-_whistling.mp3">
+    <source src="assets/baselines/full_loss/Wind_-_whistling.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Wind_-_whistling.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### Writing with pen on paper
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/Writing_with_pen_on_paper.ogg">
+    <source src="assets/baselines/original/Writing_with_pen_on_paper.mp3">
+    <source src="assets/baselines/original/Writing_with_pen_on_paper.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/Writing_with_pen_on_paper.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/Writing_with_pen_on_paper.ogg">
+    <source src="assets/baselines/mcdermott/Writing_with_pen_on_paper.mp3">
+    <source src="assets/baselines/mcdermott/Writing_with_pen_on_paper.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/Writing_with_pen_on_paper.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/Writing_with_pen_on_paper.ogg">
+    <source src="assets/baselines/ulyanov/Writing_with_pen_on_paper.mp3">
+    <source src="assets/baselines/ulyanov/Writing_with_pen_on_paper.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/Writing_with_pen_on_paper.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/Writing_with_pen_on_paper.ogg">
+    <source src="assets/baselines/gram/Writing_with_pen_on_paper.mp3">
+    <source src="assets/baselines/gram/Writing_with_pen_on_paper.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/Writing_with_pen_on_paper.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/Writing_with_pen_on_paper.ogg">
+    <source src="assets/baselines/full_loss/Writing_with_pen_on_paper.mp3">
+    <source src="assets/baselines/full_loss/Writing_with_pen_on_paper.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/Writing_with_pen_on_paper.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
+#### WWII bomber plane
+
+<center>
+<table>
+
+<tr>
+  <th>Method</th>
+  <th>Audio</th>
+  <th>Spectrogram</th>
+</tr>
+
+<tr>
+<td>Original</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/original/WWII_bomber_plane.ogg">
+    <source src="assets/baselines/original/WWII_bomber_plane.mp3">
+    <source src="assets/baselines/original/WWII_bomber_plane.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/original/WWII_bomber_plane.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>McDermott & Simoncelli (2011)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/mcdermott/WWII_bomber_plane.ogg">
+    <source src="assets/baselines/mcdermott/WWII_bomber_plane.mp3">
+    <source src="assets/baselines/mcdermott/WWII_bomber_plane.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/mcdermott/WWII_bomber_plane.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Ulyanov & Lebedev (2016)</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/ulyanov/WWII_bomber_plane.ogg">
+    <source src="assets/baselines/ulyanov/WWII_bomber_plane.mp3">
+    <source src="assets/baselines/ulyanov/WWII_bomber_plane.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/ulyanov/WWII_bomber_plane.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Gram loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/gram/WWII_bomber_plane.ogg">
+    <source src="assets/baselines/gram/WWII_bomber_plane.mp3">
+    <source src="assets/baselines/gram/WWII_bomber_plane.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/gram/WWII_bomber_plane.png">Link</a>
+</td>
+</tr>
+
+<tr>
+<td>Full loss</td>
+<td>
+  <audio controls>
+    <source src="assets/baselines/full_loss/WWII_bomber_plane.ogg">
+    <source src="assets/baselines/full_loss/WWII_bomber_plane.mp3">
+    <source src="assets/baselines/full_loss/WWII_bomber_plane.wav">
+  </audio>
+</td>
+<td>
+  <a href="assets/baselines/full_loss/WWII_bomber_plane.png">Link</a>
+</td>
+</tr>
+
+</table>
+</center>
+
 [Prev page](stationary_textures/12/index.md) | 

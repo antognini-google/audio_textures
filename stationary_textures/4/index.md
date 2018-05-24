@@ -10,7 +10,7 @@
 
 ### Stationary textures
 
-#### Frogs2
+#### Filing metal
 
 <center>
 <table>
@@ -25,13 +25,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frogs2.ogg">
-    <source src="assets/baselines/original/Frogs2.mp3">
-    <source src="assets/baselines/original/Frogs2.wav">
+    <source src="assets/baselines/original/Filing_metal.ogg">
+    <source src="assets/baselines/original/Filing_metal.mp3">
+    <source src="assets/baselines/original/Filing_metal.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frogs2.png">Link</a>
+  <a href="assets/baselines/original/Filing_metal.png">Link</a>
 </td>
 </tr>
 
@@ -39,13 +39,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frogs2.ogg">
-    <source src="assets/baselines/mcdermott/Frogs2.mp3">
-    <source src="assets/baselines/mcdermott/Frogs2.wav">
+    <source src="assets/baselines/mcdermott/Filing_metal.ogg">
+    <source src="assets/baselines/mcdermott/Filing_metal.mp3">
+    <source src="assets/baselines/mcdermott/Filing_metal.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frogs2.png">Link</a>
+  <a href="assets/baselines/mcdermott/Filing_metal.png">Link</a>
 </td>
 </tr>
 
@@ -53,13 +53,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frogs2.ogg">
-    <source src="assets/baselines/ulyanov/Frogs2.mp3">
-    <source src="assets/baselines/ulyanov/Frogs2.wav">
+    <source src="assets/baselines/ulyanov/Filing_metal.ogg">
+    <source src="assets/baselines/ulyanov/Filing_metal.mp3">
+    <source src="assets/baselines/ulyanov/Filing_metal.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frogs2.png">Link</a>
+  <a href="assets/baselines/ulyanov/Filing_metal.png">Link</a>
 </td>
 </tr>
 
@@ -67,13 +67,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frogs2.ogg">
-    <source src="assets/baselines/gram/Frogs2.mp3">
-    <source src="assets/baselines/gram/Frogs2.wav">
+    <source src="assets/baselines/gram/Filing_metal.ogg">
+    <source src="assets/baselines/gram/Filing_metal.mp3">
+    <source src="assets/baselines/gram/Filing_metal.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frogs2.png">Link</a>
+  <a href="assets/baselines/gram/Filing_metal.png">Link</a>
 </td>
 </tr>
 
@@ -81,20 +81,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frogs2.ogg">
-    <source src="assets/baselines/full_loss/Frogs2.mp3">
-    <source src="assets/baselines/full_loss/Frogs2.wav">
+    <source src="assets/baselines/full_loss/Filing_metal.ogg">
+    <source src="assets/baselines/full_loss/Filing_metal.mp3">
+    <source src="assets/baselines/full_loss/Filing_metal.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frogs2.png">Link</a>
+  <a href="assets/baselines/full_loss/Filing_metal.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Frogs3
+#### Fire1
 
 <center>
 <table>
@@ -109,13 +109,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frogs3.ogg">
-    <source src="assets/baselines/original/Frogs3.mp3">
-    <source src="assets/baselines/original/Frogs3.wav">
+    <source src="assets/baselines/original/Fire1.ogg">
+    <source src="assets/baselines/original/Fire1.mp3">
+    <source src="assets/baselines/original/Fire1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frogs3.png">Link</a>
+  <a href="assets/baselines/original/Fire1.png">Link</a>
 </td>
 </tr>
 
@@ -123,13 +123,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frogs3.ogg">
-    <source src="assets/baselines/mcdermott/Frogs3.mp3">
-    <source src="assets/baselines/mcdermott/Frogs3.wav">
+    <source src="assets/baselines/mcdermott/Fire1.ogg">
+    <source src="assets/baselines/mcdermott/Fire1.mp3">
+    <source src="assets/baselines/mcdermott/Fire1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frogs3.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire1.png">Link</a>
 </td>
 </tr>
 
@@ -137,13 +137,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frogs3.ogg">
-    <source src="assets/baselines/ulyanov/Frogs3.mp3">
-    <source src="assets/baselines/ulyanov/Frogs3.wav">
+    <source src="assets/baselines/ulyanov/Fire1.ogg">
+    <source src="assets/baselines/ulyanov/Fire1.mp3">
+    <source src="assets/baselines/ulyanov/Fire1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frogs3.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire1.png">Link</a>
 </td>
 </tr>
 
@@ -151,13 +151,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frogs3.ogg">
-    <source src="assets/baselines/gram/Frogs3.mp3">
-    <source src="assets/baselines/gram/Frogs3.wav">
+    <source src="assets/baselines/gram/Fire1.ogg">
+    <source src="assets/baselines/gram/Fire1.mp3">
+    <source src="assets/baselines/gram/Fire1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frogs3.png">Link</a>
+  <a href="assets/baselines/gram/Fire1.png">Link</a>
 </td>
 </tr>
 
@@ -165,20 +165,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frogs3.ogg">
-    <source src="assets/baselines/full_loss/Frogs3.mp3">
-    <source src="assets/baselines/full_loss/Frogs3.wav">
+    <source src="assets/baselines/full_loss/Fire1.ogg">
+    <source src="assets/baselines/full_loss/Fire1.mp3">
+    <source src="assets/baselines/full_loss/Fire1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frogs3.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire1.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Frogs4
+#### Fire2
 
 <center>
 <table>
@@ -193,13 +193,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frogs4.ogg">
-    <source src="assets/baselines/original/Frogs4.mp3">
-    <source src="assets/baselines/original/Frogs4.wav">
+    <source src="assets/baselines/original/Fire2.ogg">
+    <source src="assets/baselines/original/Fire2.mp3">
+    <source src="assets/baselines/original/Fire2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frogs4.png">Link</a>
+  <a href="assets/baselines/original/Fire2.png">Link</a>
 </td>
 </tr>
 
@@ -207,13 +207,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frogs4.ogg">
-    <source src="assets/baselines/mcdermott/Frogs4.mp3">
-    <source src="assets/baselines/mcdermott/Frogs4.wav">
+    <source src="assets/baselines/mcdermott/Fire2.ogg">
+    <source src="assets/baselines/mcdermott/Fire2.mp3">
+    <source src="assets/baselines/mcdermott/Fire2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frogs4.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire2.png">Link</a>
 </td>
 </tr>
 
@@ -221,13 +221,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frogs4.ogg">
-    <source src="assets/baselines/ulyanov/Frogs4.mp3">
-    <source src="assets/baselines/ulyanov/Frogs4.wav">
+    <source src="assets/baselines/ulyanov/Fire2.ogg">
+    <source src="assets/baselines/ulyanov/Fire2.mp3">
+    <source src="assets/baselines/ulyanov/Fire2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frogs4.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire2.png">Link</a>
 </td>
 </tr>
 
@@ -235,13 +235,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frogs4.ogg">
-    <source src="assets/baselines/gram/Frogs4.mp3">
-    <source src="assets/baselines/gram/Frogs4.wav">
+    <source src="assets/baselines/gram/Fire2.ogg">
+    <source src="assets/baselines/gram/Fire2.mp3">
+    <source src="assets/baselines/gram/Fire2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frogs4.png">Link</a>
+  <a href="assets/baselines/gram/Fire2.png">Link</a>
 </td>
 </tr>
 
@@ -249,20 +249,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frogs4.ogg">
-    <source src="assets/baselines/full_loss/Frogs4.mp3">
-    <source src="assets/baselines/full_loss/Frogs4.wav">
+    <source src="assets/baselines/full_loss/Fire2.ogg">
+    <source src="assets/baselines/full_loss/Fire2.mp3">
+    <source src="assets/baselines/full_loss/Fire2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frogs4.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire2.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Frogs and insects
+#### Fire3
 
 <center>
 <table>
@@ -277,13 +277,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frogs_and_insects.ogg">
-    <source src="assets/baselines/original/Frogs_and_insects.mp3">
-    <source src="assets/baselines/original/Frogs_and_insects.wav">
+    <source src="assets/baselines/original/Fire3.ogg">
+    <source src="assets/baselines/original/Fire3.mp3">
+    <source src="assets/baselines/original/Fire3.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frogs_and_insects.png">Link</a>
+  <a href="assets/baselines/original/Fire3.png">Link</a>
 </td>
 </tr>
 
@@ -291,13 +291,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frogs_and_insects.ogg">
-    <source src="assets/baselines/mcdermott/Frogs_and_insects.mp3">
-    <source src="assets/baselines/mcdermott/Frogs_and_insects.wav">
+    <source src="assets/baselines/mcdermott/Fire3.ogg">
+    <source src="assets/baselines/mcdermott/Fire3.mp3">
+    <source src="assets/baselines/mcdermott/Fire3.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frogs_and_insects.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire3.png">Link</a>
 </td>
 </tr>
 
@@ -305,13 +305,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frogs_and_insects.ogg">
-    <source src="assets/baselines/ulyanov/Frogs_and_insects.mp3">
-    <source src="assets/baselines/ulyanov/Frogs_and_insects.wav">
+    <source src="assets/baselines/ulyanov/Fire3.ogg">
+    <source src="assets/baselines/ulyanov/Fire3.mp3">
+    <source src="assets/baselines/ulyanov/Fire3.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frogs_and_insects.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire3.png">Link</a>
 </td>
 </tr>
 
@@ -319,13 +319,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frogs_and_insects.ogg">
-    <source src="assets/baselines/gram/Frogs_and_insects.mp3">
-    <source src="assets/baselines/gram/Frogs_and_insects.wav">
+    <source src="assets/baselines/gram/Fire3.ogg">
+    <source src="assets/baselines/gram/Fire3.mp3">
+    <source src="assets/baselines/gram/Fire3.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frogs_and_insects.png">Link</a>
+  <a href="assets/baselines/gram/Fire3.png">Link</a>
 </td>
 </tr>
 
@@ -333,20 +333,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frogs_and_insects.ogg">
-    <source src="assets/baselines/full_loss/Frogs_and_insects.mp3">
-    <source src="assets/baselines/full_loss/Frogs_and_insects.wav">
+    <source src="assets/baselines/full_loss/Fire3.ogg">
+    <source src="assets/baselines/full_loss/Fire3.mp3">
+    <source src="assets/baselines/full_loss/Fire3.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frogs_and_insects.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire3.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Frying bacon
+#### Fire - burning room1
 
 <center>
 <table>
@@ -361,13 +361,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frying_bacon.ogg">
-    <source src="assets/baselines/original/Frying_bacon.mp3">
-    <source src="assets/baselines/original/Frying_bacon.wav">
+    <source src="assets/baselines/original/Fire_-_burning_room1.ogg">
+    <source src="assets/baselines/original/Fire_-_burning_room1.mp3">
+    <source src="assets/baselines/original/Fire_-_burning_room1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frying_bacon.png">Link</a>
+  <a href="assets/baselines/original/Fire_-_burning_room1.png">Link</a>
 </td>
 </tr>
 
@@ -375,13 +375,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frying_bacon.ogg">
-    <source src="assets/baselines/mcdermott/Frying_bacon.mp3">
-    <source src="assets/baselines/mcdermott/Frying_bacon.wav">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room1.ogg">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room1.mp3">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frying_bacon.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire_-_burning_room1.png">Link</a>
 </td>
 </tr>
 
@@ -389,13 +389,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frying_bacon.ogg">
-    <source src="assets/baselines/ulyanov/Frying_bacon.mp3">
-    <source src="assets/baselines/ulyanov/Frying_bacon.wav">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room1.ogg">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room1.mp3">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frying_bacon.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire_-_burning_room1.png">Link</a>
 </td>
 </tr>
 
@@ -403,13 +403,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frying_bacon.ogg">
-    <source src="assets/baselines/gram/Frying_bacon.mp3">
-    <source src="assets/baselines/gram/Frying_bacon.wav">
+    <source src="assets/baselines/gram/Fire_-_burning_room1.ogg">
+    <source src="assets/baselines/gram/Fire_-_burning_room1.mp3">
+    <source src="assets/baselines/gram/Fire_-_burning_room1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frying_bacon.png">Link</a>
+  <a href="assets/baselines/gram/Fire_-_burning_room1.png">Link</a>
 </td>
 </tr>
 
@@ -417,20 +417,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frying_bacon.ogg">
-    <source src="assets/baselines/full_loss/Frying_bacon.mp3">
-    <source src="assets/baselines/full_loss/Frying_bacon.wav">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room1.ogg">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room1.mp3">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frying_bacon.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire_-_burning_room1.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Frying eggs
+#### Fire - burning room2
 
 <center>
 <table>
@@ -445,13 +445,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Frying_eggs.ogg">
-    <source src="assets/baselines/original/Frying_eggs.mp3">
-    <source src="assets/baselines/original/Frying_eggs.wav">
+    <source src="assets/baselines/original/Fire_-_burning_room2.ogg">
+    <source src="assets/baselines/original/Fire_-_burning_room2.mp3">
+    <source src="assets/baselines/original/Fire_-_burning_room2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Frying_eggs.png">Link</a>
+  <a href="assets/baselines/original/Fire_-_burning_room2.png">Link</a>
 </td>
 </tr>
 
@@ -459,13 +459,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Frying_eggs.ogg">
-    <source src="assets/baselines/mcdermott/Frying_eggs.mp3">
-    <source src="assets/baselines/mcdermott/Frying_eggs.wav">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room2.ogg">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room2.mp3">
+    <source src="assets/baselines/mcdermott/Fire_-_burning_room2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Frying_eggs.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire_-_burning_room2.png">Link</a>
 </td>
 </tr>
 
@@ -473,13 +473,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Frying_eggs.ogg">
-    <source src="assets/baselines/ulyanov/Frying_eggs.mp3">
-    <source src="assets/baselines/ulyanov/Frying_eggs.wav">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room2.ogg">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room2.mp3">
+    <source src="assets/baselines/ulyanov/Fire_-_burning_room2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Frying_eggs.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire_-_burning_room2.png">Link</a>
 </td>
 </tr>
 
@@ -487,13 +487,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Frying_eggs.ogg">
-    <source src="assets/baselines/gram/Frying_eggs.mp3">
-    <source src="assets/baselines/gram/Frying_eggs.wav">
+    <source src="assets/baselines/gram/Fire_-_burning_room2.ogg">
+    <source src="assets/baselines/gram/Fire_-_burning_room2.mp3">
+    <source src="assets/baselines/gram/Fire_-_burning_room2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Frying_eggs.png">Link</a>
+  <a href="assets/baselines/gram/Fire_-_burning_room2.png">Link</a>
 </td>
 </tr>
 
@@ -501,20 +501,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Frying_eggs.ogg">
-    <source src="assets/baselines/full_loss/Frying_eggs.mp3">
-    <source src="assets/baselines/full_loss/Frying_eggs.wav">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room2.ogg">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room2.mp3">
+    <source src="assets/baselines/full_loss/Fire_-_burning_room2.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Frying_eggs.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire_-_burning_room2.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Gargling
+#### Firecrackers
 
 <center>
 <table>
@@ -529,13 +529,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Gargling.ogg">
-    <source src="assets/baselines/original/Gargling.mp3">
-    <source src="assets/baselines/original/Gargling.wav">
+    <source src="assets/baselines/original/Firecrackers.ogg">
+    <source src="assets/baselines/original/Firecrackers.mp3">
+    <source src="assets/baselines/original/Firecrackers.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Gargling.png">Link</a>
+  <a href="assets/baselines/original/Firecrackers.png">Link</a>
 </td>
 </tr>
 
@@ -543,13 +543,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Gargling.ogg">
-    <source src="assets/baselines/mcdermott/Gargling.mp3">
-    <source src="assets/baselines/mcdermott/Gargling.wav">
+    <source src="assets/baselines/mcdermott/Firecrackers.ogg">
+    <source src="assets/baselines/mcdermott/Firecrackers.mp3">
+    <source src="assets/baselines/mcdermott/Firecrackers.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Gargling.png">Link</a>
+  <a href="assets/baselines/mcdermott/Firecrackers.png">Link</a>
 </td>
 </tr>
 
@@ -557,13 +557,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Gargling.ogg">
-    <source src="assets/baselines/ulyanov/Gargling.mp3">
-    <source src="assets/baselines/ulyanov/Gargling.wav">
+    <source src="assets/baselines/ulyanov/Firecrackers.ogg">
+    <source src="assets/baselines/ulyanov/Firecrackers.mp3">
+    <source src="assets/baselines/ulyanov/Firecrackers.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Gargling.png">Link</a>
+  <a href="assets/baselines/ulyanov/Firecrackers.png">Link</a>
 </td>
 </tr>
 
@@ -571,13 +571,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Gargling.ogg">
-    <source src="assets/baselines/gram/Gargling.mp3">
-    <source src="assets/baselines/gram/Gargling.wav">
+    <source src="assets/baselines/gram/Firecrackers.ogg">
+    <source src="assets/baselines/gram/Firecrackers.mp3">
+    <source src="assets/baselines/gram/Firecrackers.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Gargling.png">Link</a>
+  <a href="assets/baselines/gram/Firecrackers.png">Link</a>
 </td>
 </tr>
 
@@ -585,20 +585,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Gargling.ogg">
-    <source src="assets/baselines/full_loss/Gargling.mp3">
-    <source src="assets/baselines/full_loss/Gargling.wav">
+    <source src="assets/baselines/full_loss/Firecrackers.ogg">
+    <source src="assets/baselines/full_loss/Firecrackers.mp3">
+    <source src="assets/baselines/full_loss/Firecrackers.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Gargling.png">Link</a>
+  <a href="assets/baselines/full_loss/Firecrackers.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Geese cackling
+#### Fire - forest inferno
 
 <center>
 <table>
@@ -613,13 +613,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Geese_cackling.ogg">
-    <source src="assets/baselines/original/Geese_cackling.mp3">
-    <source src="assets/baselines/original/Geese_cackling.wav">
+    <source src="assets/baselines/original/Fire_-_forest_inferno.ogg">
+    <source src="assets/baselines/original/Fire_-_forest_inferno.mp3">
+    <source src="assets/baselines/original/Fire_-_forest_inferno.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Geese_cackling.png">Link</a>
+  <a href="assets/baselines/original/Fire_-_forest_inferno.png">Link</a>
 </td>
 </tr>
 
@@ -627,13 +627,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Geese_cackling.ogg">
-    <source src="assets/baselines/mcdermott/Geese_cackling.mp3">
-    <source src="assets/baselines/mcdermott/Geese_cackling.wav">
+    <source src="assets/baselines/mcdermott/Fire_-_forest_inferno.ogg">
+    <source src="assets/baselines/mcdermott/Fire_-_forest_inferno.mp3">
+    <source src="assets/baselines/mcdermott/Fire_-_forest_inferno.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Geese_cackling.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire_-_forest_inferno.png">Link</a>
 </td>
 </tr>
 
@@ -641,13 +641,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Geese_cackling.ogg">
-    <source src="assets/baselines/ulyanov/Geese_cackling.mp3">
-    <source src="assets/baselines/ulyanov/Geese_cackling.wav">
+    <source src="assets/baselines/ulyanov/Fire_-_forest_inferno.ogg">
+    <source src="assets/baselines/ulyanov/Fire_-_forest_inferno.mp3">
+    <source src="assets/baselines/ulyanov/Fire_-_forest_inferno.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Geese_cackling.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire_-_forest_inferno.png">Link</a>
 </td>
 </tr>
 
@@ -655,13 +655,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Geese_cackling.ogg">
-    <source src="assets/baselines/gram/Geese_cackling.mp3">
-    <source src="assets/baselines/gram/Geese_cackling.wav">
+    <source src="assets/baselines/gram/Fire_-_forest_inferno.ogg">
+    <source src="assets/baselines/gram/Fire_-_forest_inferno.mp3">
+    <source src="assets/baselines/gram/Fire_-_forest_inferno.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Geese_cackling.png">Link</a>
+  <a href="assets/baselines/gram/Fire_-_forest_inferno.png">Link</a>
 </td>
 </tr>
 
@@ -669,20 +669,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Geese_cackling.ogg">
-    <source src="assets/baselines/full_loss/Geese_cackling.mp3">
-    <source src="assets/baselines/full_loss/Geese_cackling.wav">
+    <source src="assets/baselines/full_loss/Fire_-_forest_inferno.ogg">
+    <source src="assets/baselines/full_loss/Fire_-_forest_inferno.mp3">
+    <source src="assets/baselines/full_loss/Fire_-_forest_inferno.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Geese_cackling.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire_-_forest_inferno.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Hammering copper
+#### Fire - in chimney
 
 <center>
 <table>
@@ -697,13 +697,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Hammering_copper.ogg">
-    <source src="assets/baselines/original/Hammering_copper.mp3">
-    <source src="assets/baselines/original/Hammering_copper.wav">
+    <source src="assets/baselines/original/Fire_-_in_chimney.ogg">
+    <source src="assets/baselines/original/Fire_-_in_chimney.mp3">
+    <source src="assets/baselines/original/Fire_-_in_chimney.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Hammering_copper.png">Link</a>
+  <a href="assets/baselines/original/Fire_-_in_chimney.png">Link</a>
 </td>
 </tr>
 
@@ -711,13 +711,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Hammering_copper.ogg">
-    <source src="assets/baselines/mcdermott/Hammering_copper.mp3">
-    <source src="assets/baselines/mcdermott/Hammering_copper.wav">
+    <source src="assets/baselines/mcdermott/Fire_-_in_chimney.ogg">
+    <source src="assets/baselines/mcdermott/Fire_-_in_chimney.mp3">
+    <source src="assets/baselines/mcdermott/Fire_-_in_chimney.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Hammering_copper.png">Link</a>
+  <a href="assets/baselines/mcdermott/Fire_-_in_chimney.png">Link</a>
 </td>
 </tr>
 
@@ -725,13 +725,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Hammering_copper.ogg">
-    <source src="assets/baselines/ulyanov/Hammering_copper.mp3">
-    <source src="assets/baselines/ulyanov/Hammering_copper.wav">
+    <source src="assets/baselines/ulyanov/Fire_-_in_chimney.ogg">
+    <source src="assets/baselines/ulyanov/Fire_-_in_chimney.mp3">
+    <source src="assets/baselines/ulyanov/Fire_-_in_chimney.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Hammering_copper.png">Link</a>
+  <a href="assets/baselines/ulyanov/Fire_-_in_chimney.png">Link</a>
 </td>
 </tr>
 
@@ -739,13 +739,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Hammering_copper.ogg">
-    <source src="assets/baselines/gram/Hammering_copper.mp3">
-    <source src="assets/baselines/gram/Hammering_copper.wav">
+    <source src="assets/baselines/gram/Fire_-_in_chimney.ogg">
+    <source src="assets/baselines/gram/Fire_-_in_chimney.mp3">
+    <source src="assets/baselines/gram/Fire_-_in_chimney.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Hammering_copper.png">Link</a>
+  <a href="assets/baselines/gram/Fire_-_in_chimney.png">Link</a>
 </td>
 </tr>
 
@@ -753,20 +753,20 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Hammering_copper.ogg">
-    <source src="assets/baselines/full_loss/Hammering_copper.mp3">
-    <source src="assets/baselines/full_loss/Hammering_copper.wav">
+    <source src="assets/baselines/full_loss/Fire_-_in_chimney.ogg">
+    <source src="assets/baselines/full_loss/Fire_-_in_chimney.mp3">
+    <source src="assets/baselines/full_loss/Fire_-_in_chimney.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Hammering_copper.png">Link</a>
+  <a href="assets/baselines/full_loss/Fire_-_in_chimney.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-#### Heavy rain falling and dripping
+#### Frogs1
 
 <center>
 <table>
@@ -781,13 +781,13 @@
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/original/Heavy_rain_falling_and_dripping.ogg">
-    <source src="assets/baselines/original/Heavy_rain_falling_and_dripping.mp3">
-    <source src="assets/baselines/original/Heavy_rain_falling_and_dripping.wav">
+    <source src="assets/baselines/original/Frogs1.ogg">
+    <source src="assets/baselines/original/Frogs1.mp3">
+    <source src="assets/baselines/original/Frogs1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/original/Heavy_rain_falling_and_dripping.png">Link</a>
+  <a href="assets/baselines/original/Frogs1.png">Link</a>
 </td>
 </tr>
 
@@ -795,13 +795,13 @@
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/mcdermott/Heavy_rain_falling_and_dripping.ogg">
-    <source src="assets/baselines/mcdermott/Heavy_rain_falling_and_dripping.mp3">
-    <source src="assets/baselines/mcdermott/Heavy_rain_falling_and_dripping.wav">
+    <source src="assets/baselines/mcdermott/Frogs1.ogg">
+    <source src="assets/baselines/mcdermott/Frogs1.mp3">
+    <source src="assets/baselines/mcdermott/Frogs1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/mcdermott/Heavy_rain_falling_and_dripping.png">Link</a>
+  <a href="assets/baselines/mcdermott/Frogs1.png">Link</a>
 </td>
 </tr>
 
@@ -809,13 +809,13 @@
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/ulyanov/Heavy_rain_falling_and_dripping.ogg">
-    <source src="assets/baselines/ulyanov/Heavy_rain_falling_and_dripping.mp3">
-    <source src="assets/baselines/ulyanov/Heavy_rain_falling_and_dripping.wav">
+    <source src="assets/baselines/ulyanov/Frogs1.ogg">
+    <source src="assets/baselines/ulyanov/Frogs1.mp3">
+    <source src="assets/baselines/ulyanov/Frogs1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/ulyanov/Heavy_rain_falling_and_dripping.png">Link</a>
+  <a href="assets/baselines/ulyanov/Frogs1.png">Link</a>
 </td>
 </tr>
 
@@ -823,13 +823,13 @@
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/gram/Heavy_rain_falling_and_dripping.ogg">
-    <source src="assets/baselines/gram/Heavy_rain_falling_and_dripping.mp3">
-    <source src="assets/baselines/gram/Heavy_rain_falling_and_dripping.wav">
+    <source src="assets/baselines/gram/Frogs1.ogg">
+    <source src="assets/baselines/gram/Frogs1.mp3">
+    <source src="assets/baselines/gram/Frogs1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/gram/Heavy_rain_falling_and_dripping.png">Link</a>
+  <a href="assets/baselines/gram/Frogs1.png">Link</a>
 </td>
 </tr>
 
@@ -837,13 +837,13 @@
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="assets/baselines/full_loss/Heavy_rain_falling_and_dripping.ogg">
-    <source src="assets/baselines/full_loss/Heavy_rain_falling_and_dripping.mp3">
-    <source src="assets/baselines/full_loss/Heavy_rain_falling_and_dripping.wav">
+    <source src="assets/baselines/full_loss/Frogs1.ogg">
+    <source src="assets/baselines/full_loss/Frogs1.mp3">
+    <source src="assets/baselines/full_loss/Frogs1.wav">
   </audio>
 </td>
 <td>
-  <a href="assets/baselines/full_loss/Heavy_rain_falling_and_dripping.png">Link</a>
+  <a href="assets/baselines/full_loss/Frogs1.png">Link</a>
 </td>
 </tr>
 
