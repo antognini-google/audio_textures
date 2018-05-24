@@ -2,13 +2,13 @@
 title: Audio textures
 ---
 
-[Main page](/README.md)
+[Main page](/audio_textures/README.md)
 
 # Audio textures
 
-[Pitched textures](/pitched_textures/1/index.md) --- [Rhythmic textures](/rhythmic_textures/1/index.md) --- [Stationary textures](/stationary_textures/1/index.md) --- [Non-textures](/non_textures/1/index.md)
+[Pitched textures](/audio_textures/pitched_textures/1/index.md) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/index.md) --- [Stationary textures](/audio_textures/stationary_textures/1/index.md) --- [Non-textures](/audio_textures/non_textures/1/index.md)
 
-[1](/rhythmic_textures/1/index.md) --- [2](/rhythmic_textures/2/index.md) --- [3](/rhythmic_textures/3/index.md) --- [4](/rhythmic_textures/4/index.md) --- [5](/rhythmic_textures/5/index.md) --- [6](/rhythmic_textures/6/index.md) --- [7](/rhythmic_textures/7/index.md) --- [8](/rhythmic_textures/8/index.md) --- [9](/rhythmic_textures/9/index.md) --- [10](/rhythmic_textures/10/index.md) --- [11](/rhythmic_textures/11/index.md) --- [12](/rhythmic_textures/12/index.md) --- [13](/rhythmic_textures/13/index.md) --- [14](/rhythmic_textures/14/index.md) --- [15](/rhythmic_textures/15/index.md) --- [16](/rhythmic_textures/16/index.md) --- [17](/rhythmic_textures/17/index.md) --- [18](/rhythmic_textures/18/index.md) --- [19](/rhythmic_textures/19/index.md) --- [20](/rhythmic_textures/20/index.md) --- [21](/rhythmic_textures/21/index.md) --- [22](/rhythmic_textures/22/index.md) --- [23](/rhythmic_textures/23/index.md) --- [24](/rhythmic_textures/24/index.md) --- [25](/rhythmic_textures/25/index.md) --- [26](/rhythmic_textures/26/index.md) --- [27](/rhythmic_textures/27/index.md)
+[1](/audio_textures/rhythmic_textures/1/index.md) --- [2](/audio_textures/rhythmic_textures/2/index.md) --- [3](/audio_textures/rhythmic_textures/3/index.md) --- [4](/audio_textures/rhythmic_textures/4/index.md) --- [5](/audio_textures/rhythmic_textures/5/index.md) --- [6](/audio_textures/rhythmic_textures/6/index.md) --- [7](/audio_textures/rhythmic_textures/7/index.md) --- [8](/audio_textures/rhythmic_textures/8/index.md) --- [9](/audio_textures/rhythmic_textures/9/index.md) --- [10](/audio_textures/rhythmic_textures/10/index.md) --- [11](/audio_textures/rhythmic_textures/11/index.md) --- [12](/audio_textures/rhythmic_textures/12/index.md) --- [13](/audio_textures/rhythmic_textures/13/index.md) --- [14](/audio_textures/rhythmic_textures/14/index.md) --- [15](/audio_textures/rhythmic_textures/15/index.md) --- [16](/audio_textures/rhythmic_textures/16/index.md) --- [17](/audio_textures/rhythmic_textures/17/index.md) --- [18](/audio_textures/rhythmic_textures/18/index.md) --- [19](/audio_textures/rhythmic_textures/19/index.md) --- [20](/audio_textures/rhythmic_textures/20/index.md) --- [21](/audio_textures/rhythmic_textures/21/index.md) --- [22](/audio_textures/rhythmic_textures/22/index.md) --- [23](/audio_textures/rhythmic_textures/23/index.md) --- [24](/audio_textures/rhythmic_textures/24/index.md) --- [25](/audio_textures/rhythmic_textures/25/index.md) --- [26](/audio_textures/rhythmic_textures/26/index.md) --- [27](/audio_textures/rhythmic_textures/27/index.md)
 
 ## Comparison to other methods
 
@@ -29,13 +29,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Horse_trotting_on_cobblestones.ogg">
-    <source src="/assets/baselines/original/Horse_trotting_on_cobblestones.mp3">
-    <source src="/assets/baselines/original/Horse_trotting_on_cobblestones.wav">
+    <source src="/audio_textures/assets/baselines/original/Horse_trotting_on_cobblestones.ogg">
+    <source src="/audio_textures/assets/baselines/original/Horse_trotting_on_cobblestones.mp3">
+    <source src="/audio_textures/assets/baselines/original/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Horse_trotting_on_cobblestones.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -43,13 +43,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.ogg">
-    <source src="/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.mp3">
-    <source src="/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -57,13 +57,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.ogg">
-    <source src="/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.mp3">
-    <source src="/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -71,13 +71,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Horse_trotting_on_cobblestones.ogg">
-    <source src="/assets/baselines/gram/Horse_trotting_on_cobblestones.mp3">
-    <source src="/assets/baselines/gram/Horse_trotting_on_cobblestones.wav">
+    <source src="/audio_textures/assets/baselines/gram/Horse_trotting_on_cobblestones.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Horse_trotting_on_cobblestones.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Horse_trotting_on_cobblestones.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -85,13 +85,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Horse_trotting_on_cobblestones.ogg">
-    <source src="/assets/baselines/full_loss/Horse_trotting_on_cobblestones.mp3">
-    <source src="/assets/baselines/full_loss/Horse_trotting_on_cobblestones.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_trotting_on_cobblestones.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_trotting_on_cobblestones.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_trotting_on_cobblestones.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Horse_trotting_on_cobblestones.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Horse_trotting_on_cobblestones.png">Link</a>
 </td>
 </tr>
 
@@ -113,13 +113,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Horse_walking_in_snow.ogg">
-    <source src="/assets/baselines/original/Horse_walking_in_snow.mp3">
-    <source src="/assets/baselines/original/Horse_walking_in_snow.wav">
+    <source src="/audio_textures/assets/baselines/original/Horse_walking_in_snow.ogg">
+    <source src="/audio_textures/assets/baselines/original/Horse_walking_in_snow.mp3">
+    <source src="/audio_textures/assets/baselines/original/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Horse_walking_in_snow.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -127,13 +127,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Horse_walking_in_snow.ogg">
-    <source src="/assets/baselines/mcdermott/Horse_walking_in_snow.mp3">
-    <source src="/assets/baselines/mcdermott/Horse_walking_in_snow.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_walking_in_snow.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_walking_in_snow.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Horse_walking_in_snow.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -141,13 +141,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Horse_walking_in_snow.ogg">
-    <source src="/assets/baselines/ulyanov/Horse_walking_in_snow.mp3">
-    <source src="/assets/baselines/ulyanov/Horse_walking_in_snow.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_walking_in_snow.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_walking_in_snow.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Horse_walking_in_snow.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -155,13 +155,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Horse_walking_in_snow.ogg">
-    <source src="/assets/baselines/gram/Horse_walking_in_snow.mp3">
-    <source src="/assets/baselines/gram/Horse_walking_in_snow.wav">
+    <source src="/audio_textures/assets/baselines/gram/Horse_walking_in_snow.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Horse_walking_in_snow.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Horse_walking_in_snow.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -169,13 +169,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Horse_walking_in_snow.ogg">
-    <source src="/assets/baselines/full_loss/Horse_walking_in_snow.mp3">
-    <source src="/assets/baselines/full_loss/Horse_walking_in_snow.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_walking_in_snow.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_walking_in_snow.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Horse_walking_in_snow.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Horse_walking_in_snow.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Horse_walking_in_snow.png">Link</a>
 </td>
 </tr>
 
@@ -197,13 +197,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Jogging_on_gravel.ogg">
-    <source src="/assets/baselines/original/Jogging_on_gravel.mp3">
-    <source src="/assets/baselines/original/Jogging_on_gravel.wav">
+    <source src="/audio_textures/assets/baselines/original/Jogging_on_gravel.ogg">
+    <source src="/audio_textures/assets/baselines/original/Jogging_on_gravel.mp3">
+    <source src="/audio_textures/assets/baselines/original/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Jogging_on_gravel.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -211,13 +211,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Jogging_on_gravel.ogg">
-    <source src="/assets/baselines/mcdermott/Jogging_on_gravel.mp3">
-    <source src="/assets/baselines/mcdermott/Jogging_on_gravel.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Jogging_on_gravel.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Jogging_on_gravel.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Jogging_on_gravel.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -225,13 +225,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Jogging_on_gravel.ogg">
-    <source src="/assets/baselines/ulyanov/Jogging_on_gravel.mp3">
-    <source src="/assets/baselines/ulyanov/Jogging_on_gravel.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Jogging_on_gravel.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Jogging_on_gravel.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Jogging_on_gravel.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -239,13 +239,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Jogging_on_gravel.ogg">
-    <source src="/assets/baselines/gram/Jogging_on_gravel.mp3">
-    <source src="/assets/baselines/gram/Jogging_on_gravel.wav">
+    <source src="/audio_textures/assets/baselines/gram/Jogging_on_gravel.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Jogging_on_gravel.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Jogging_on_gravel.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -253,13 +253,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Jogging_on_gravel.ogg">
-    <source src="/assets/baselines/full_loss/Jogging_on_gravel.mp3">
-    <source src="/assets/baselines/full_loss/Jogging_on_gravel.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Jogging_on_gravel.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Jogging_on_gravel.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Jogging_on_gravel.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Jogging_on_gravel.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Jogging_on_gravel.png">Link</a>
 </td>
 </tr>
 
@@ -281,13 +281,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Men_marching_together.ogg">
-    <source src="/assets/baselines/original/Men_marching_together.mp3">
-    <source src="/assets/baselines/original/Men_marching_together.wav">
+    <source src="/audio_textures/assets/baselines/original/Men_marching_together.ogg">
+    <source src="/audio_textures/assets/baselines/original/Men_marching_together.mp3">
+    <source src="/audio_textures/assets/baselines/original/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Men_marching_together.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -295,13 +295,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Men_marching_together.ogg">
-    <source src="/assets/baselines/mcdermott/Men_marching_together.mp3">
-    <source src="/assets/baselines/mcdermott/Men_marching_together.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Men_marching_together.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Men_marching_together.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Men_marching_together.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -309,13 +309,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Men_marching_together.ogg">
-    <source src="/assets/baselines/ulyanov/Men_marching_together.mp3">
-    <source src="/assets/baselines/ulyanov/Men_marching_together.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Men_marching_together.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Men_marching_together.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Men_marching_together.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -323,13 +323,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Men_marching_together.ogg">
-    <source src="/assets/baselines/gram/Men_marching_together.mp3">
-    <source src="/assets/baselines/gram/Men_marching_together.wav">
+    <source src="/audio_textures/assets/baselines/gram/Men_marching_together.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Men_marching_together.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Men_marching_together.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -337,13 +337,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Men_marching_together.ogg">
-    <source src="/assets/baselines/full_loss/Men_marching_together.mp3">
-    <source src="/assets/baselines/full_loss/Men_marching_together.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Men_marching_together.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Men_marching_together.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Men_marching_together.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Men_marching_together.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Men_marching_together.png">Link</a>
 </td>
 </tr>
 
@@ -365,13 +365,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Railroad_crossing.ogg">
-    <source src="/assets/baselines/original/Railroad_crossing.mp3">
-    <source src="/assets/baselines/original/Railroad_crossing.wav">
+    <source src="/audio_textures/assets/baselines/original/Railroad_crossing.ogg">
+    <source src="/audio_textures/assets/baselines/original/Railroad_crossing.mp3">
+    <source src="/audio_textures/assets/baselines/original/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Railroad_crossing.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -379,13 +379,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Railroad_crossing.ogg">
-    <source src="/assets/baselines/mcdermott/Railroad_crossing.mp3">
-    <source src="/assets/baselines/mcdermott/Railroad_crossing.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Railroad_crossing.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Railroad_crossing.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Railroad_crossing.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -393,13 +393,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Railroad_crossing.ogg">
-    <source src="/assets/baselines/ulyanov/Railroad_crossing.mp3">
-    <source src="/assets/baselines/ulyanov/Railroad_crossing.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Railroad_crossing.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Railroad_crossing.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Railroad_crossing.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -407,13 +407,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Railroad_crossing.ogg">
-    <source src="/assets/baselines/gram/Railroad_crossing.mp3">
-    <source src="/assets/baselines/gram/Railroad_crossing.wav">
+    <source src="/audio_textures/assets/baselines/gram/Railroad_crossing.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Railroad_crossing.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Railroad_crossing.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -421,13 +421,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Railroad_crossing.ogg">
-    <source src="/assets/baselines/full_loss/Railroad_crossing.mp3">
-    <source src="/assets/baselines/full_loss/Railroad_crossing.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Railroad_crossing.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Railroad_crossing.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Railroad_crossing.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Railroad_crossing.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Railroad_crossing.png">Link</a>
 </td>
 </tr>
 
@@ -449,13 +449,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Reverse_drum_beats_-_snare.ogg">
-    <source src="/assets/baselines/original/Reverse_drum_beats_-_snare.mp3">
-    <source src="/assets/baselines/original/Reverse_drum_beats_-_snare.wav">
+    <source src="/audio_textures/assets/baselines/original/Reverse_drum_beats_-_snare.ogg">
+    <source src="/audio_textures/assets/baselines/original/Reverse_drum_beats_-_snare.mp3">
+    <source src="/audio_textures/assets/baselines/original/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Reverse_drum_beats_-_snare.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -463,13 +463,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.ogg">
-    <source src="/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.mp3">
-    <source src="/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -477,13 +477,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.ogg">
-    <source src="/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.mp3">
-    <source src="/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -491,13 +491,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Reverse_drum_beats_-_snare.ogg">
-    <source src="/assets/baselines/gram/Reverse_drum_beats_-_snare.mp3">
-    <source src="/assets/baselines/gram/Reverse_drum_beats_-_snare.wav">
+    <source src="/audio_textures/assets/baselines/gram/Reverse_drum_beats_-_snare.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Reverse_drum_beats_-_snare.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Reverse_drum_beats_-_snare.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -505,13 +505,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Reverse_drum_beats_-_snare.ogg">
-    <source src="/assets/baselines/full_loss/Reverse_drum_beats_-_snare.mp3">
-    <source src="/assets/baselines/full_loss/Reverse_drum_beats_-_snare.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Reverse_drum_beats_-_snare.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Reverse_drum_beats_-_snare.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Reverse_drum_beats_-_snare.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Reverse_drum_beats_-_snare.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Reverse_drum_beats_-_snare.png">Link</a>
 </td>
 </tr>
 
@@ -533,13 +533,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Rhythmic_applause.ogg">
-    <source src="/assets/baselines/original/Rhythmic_applause.mp3">
-    <source src="/assets/baselines/original/Rhythmic_applause.wav">
+    <source src="/audio_textures/assets/baselines/original/Rhythmic_applause.ogg">
+    <source src="/audio_textures/assets/baselines/original/Rhythmic_applause.mp3">
+    <source src="/audio_textures/assets/baselines/original/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Rhythmic_applause.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -547,13 +547,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Rhythmic_applause.ogg">
-    <source src="/assets/baselines/mcdermott/Rhythmic_applause.mp3">
-    <source src="/assets/baselines/mcdermott/Rhythmic_applause.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Rhythmic_applause.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Rhythmic_applause.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Rhythmic_applause.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -561,13 +561,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Rhythmic_applause.ogg">
-    <source src="/assets/baselines/ulyanov/Rhythmic_applause.mp3">
-    <source src="/assets/baselines/ulyanov/Rhythmic_applause.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Rhythmic_applause.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Rhythmic_applause.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Rhythmic_applause.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -575,13 +575,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Rhythmic_applause.ogg">
-    <source src="/assets/baselines/gram/Rhythmic_applause.mp3">
-    <source src="/assets/baselines/gram/Rhythmic_applause.wav">
+    <source src="/audio_textures/assets/baselines/gram/Rhythmic_applause.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Rhythmic_applause.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Rhythmic_applause.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -589,13 +589,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Rhythmic_applause.ogg">
-    <source src="/assets/baselines/full_loss/Rhythmic_applause.mp3">
-    <source src="/assets/baselines/full_loss/Rhythmic_applause.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Rhythmic_applause.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Rhythmic_applause.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Rhythmic_applause.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Rhythmic_applause.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Rhythmic_applause.png">Link</a>
 </td>
 </tr>
 
@@ -617,13 +617,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Running_up_stairs.ogg">
-    <source src="/assets/baselines/original/Running_up_stairs.mp3">
-    <source src="/assets/baselines/original/Running_up_stairs.wav">
+    <source src="/audio_textures/assets/baselines/original/Running_up_stairs.ogg">
+    <source src="/audio_textures/assets/baselines/original/Running_up_stairs.mp3">
+    <source src="/audio_textures/assets/baselines/original/Running_up_stairs.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Running_up_stairs.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Running_up_stairs.png">Link</a>
 </td>
 </tr>
 
@@ -631,13 +631,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Running_up_stairs.ogg">
-    <source src="/assets/baselines/mcdermott/Running_up_stairs.mp3">
-    <source src="/assets/baselines/mcdermott/Running_up_stairs.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Running_up_stairs.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Running_up_stairs.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Running_up_stairs.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Running_up_stairs.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Running_up_stairs.png">Link</a>
 </td>
 </tr>
 
@@ -645,13 +645,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Running_up_stairs.ogg">
-    <source src="/assets/baselines/ulyanov/Running_up_stairs.mp3">
-    <source src="/assets/baselines/ulyanov/Running_up_stairs.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Running_up_stairs.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Running_up_stairs.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Running_up_stairs.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Running_up_stairs.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Running_up_stairs.png">Link</a>
 </td>
 </tr>
 
@@ -659,13 +659,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Running_up_stairs.ogg">
-    <source src="/assets/baselines/gram/Running_up_stairs.mp3">
-    <source src="/assets/baselines/gram/Running_up_stairs.wav">
+    <source src="/audio_textures/assets/baselines/gram/Running_up_stairs.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Running_up_stairs.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Running_up_stairs.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Running_up_stairs.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Running_up_stairs.png">Link</a>
 </td>
 </tr>
 
@@ -673,13 +673,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Running_up_stairs.ogg">
-    <source src="/assets/baselines/full_loss/Running_up_stairs.mp3">
-    <source src="/assets/baselines/full_loss/Running_up_stairs.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Running_up_stairs.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Running_up_stairs.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Running_up_stairs.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Running_up_stairs.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Running_up_stairs.png">Link</a>
 </td>
 </tr>
 
@@ -701,13 +701,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Snare_drum_beats.ogg">
-    <source src="/assets/baselines/original/Snare_drum_beats.mp3">
-    <source src="/assets/baselines/original/Snare_drum_beats.wav">
+    <source src="/audio_textures/assets/baselines/original/Snare_drum_beats.ogg">
+    <source src="/audio_textures/assets/baselines/original/Snare_drum_beats.mp3">
+    <source src="/audio_textures/assets/baselines/original/Snare_drum_beats.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Snare_drum_beats.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Snare_drum_beats.png">Link</a>
 </td>
 </tr>
 
@@ -715,13 +715,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Snare_drum_beats.ogg">
-    <source src="/assets/baselines/mcdermott/Snare_drum_beats.mp3">
-    <source src="/assets/baselines/mcdermott/Snare_drum_beats.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_drum_beats.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_drum_beats.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_drum_beats.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Snare_drum_beats.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Snare_drum_beats.png">Link</a>
 </td>
 </tr>
 
@@ -729,13 +729,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Snare_drum_beats.ogg">
-    <source src="/assets/baselines/ulyanov/Snare_drum_beats.mp3">
-    <source src="/assets/baselines/ulyanov/Snare_drum_beats.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_drum_beats.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_drum_beats.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_drum_beats.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Snare_drum_beats.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Snare_drum_beats.png">Link</a>
 </td>
 </tr>
 
@@ -743,13 +743,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Snare_drum_beats.ogg">
-    <source src="/assets/baselines/gram/Snare_drum_beats.mp3">
-    <source src="/assets/baselines/gram/Snare_drum_beats.wav">
+    <source src="/audio_textures/assets/baselines/gram/Snare_drum_beats.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Snare_drum_beats.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Snare_drum_beats.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Snare_drum_beats.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Snare_drum_beats.png">Link</a>
 </td>
 </tr>
 
@@ -757,13 +757,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Snare_drum_beats.ogg">
-    <source src="/assets/baselines/full_loss/Snare_drum_beats.mp3">
-    <source src="/assets/baselines/full_loss/Snare_drum_beats.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_drum_beats.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_drum_beats.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_drum_beats.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Snare_drum_beats.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Snare_drum_beats.png">Link</a>
 </td>
 </tr>
 
@@ -785,13 +785,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Snare_rimshot_sequence.ogg">
-    <source src="/assets/baselines/original/Snare_rimshot_sequence.mp3">
-    <source src="/assets/baselines/original/Snare_rimshot_sequence.wav">
+    <source src="/audio_textures/assets/baselines/original/Snare_rimshot_sequence.ogg">
+    <source src="/audio_textures/assets/baselines/original/Snare_rimshot_sequence.mp3">
+    <source src="/audio_textures/assets/baselines/original/Snare_rimshot_sequence.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Snare_rimshot_sequence.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 
@@ -799,13 +799,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Snare_rimshot_sequence.ogg">
-    <source src="/assets/baselines/mcdermott/Snare_rimshot_sequence.mp3">
-    <source src="/assets/baselines/mcdermott/Snare_rimshot_sequence.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_rimshot_sequence.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_rimshot_sequence.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Snare_rimshot_sequence.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Snare_rimshot_sequence.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 
@@ -813,13 +813,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Snare_rimshot_sequence.ogg">
-    <source src="/assets/baselines/ulyanov/Snare_rimshot_sequence.mp3">
-    <source src="/assets/baselines/ulyanov/Snare_rimshot_sequence.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_rimshot_sequence.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_rimshot_sequence.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Snare_rimshot_sequence.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Snare_rimshot_sequence.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 
@@ -827,13 +827,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Snare_rimshot_sequence.ogg">
-    <source src="/assets/baselines/gram/Snare_rimshot_sequence.mp3">
-    <source src="/assets/baselines/gram/Snare_rimshot_sequence.wav">
+    <source src="/audio_textures/assets/baselines/gram/Snare_rimshot_sequence.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Snare_rimshot_sequence.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Snare_rimshot_sequence.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Snare_rimshot_sequence.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 
@@ -841,17 +841,17 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Snare_rimshot_sequence.ogg">
-    <source src="/assets/baselines/full_loss/Snare_rimshot_sequence.mp3">
-    <source src="/assets/baselines/full_loss/Snare_rimshot_sequence.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_rimshot_sequence.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_rimshot_sequence.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Snare_rimshot_sequence.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Snare_rimshot_sequence.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Snare_rimshot_sequence.png">Link</a>
 </td>
 </tr>
 
 </table>
 </center>
 
-[Prev page](/rhythmic_textures/1/index.md) | [Next page](/rhythmic_textures/3/index.md)
+[Prev page](/audio_textures/rhythmic_textures/1/index.md) | [Next page](/audio_textures/rhythmic_textures/3/index.md)

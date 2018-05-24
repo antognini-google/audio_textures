@@ -2,13 +2,13 @@
 title: Audio textures
 ---
 
-[Main page](/README.md)
+[Main page](/audio_textures/README.md)
 
 # Audio textures
 
-[Pitched textures](/pitched_textures/1/index.md) --- [Rhythmic textures](/rhythmic_textures/1/index.md) --- [Stationary textures](/stationary_textures/1/index.md) --- [Non-textures](/non_textures/1/index.md)
+[Pitched textures](/audio_textures/pitched_textures/1/index.md) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/index.md) --- [Stationary textures](/audio_textures/stationary_textures/1/index.md) --- [Non-textures](/audio_textures/non_textures/1/index.md)
 
-[1](/non_textures/1/index.md) --- [2](/non_textures/2/index.md) --- [3](/non_textures/3/index.md) --- [4](/non_textures/4/index.md)
+[1](/audio_textures/non_textures/1/index.md) --- [2](/audio_textures/non_textures/2/index.md) --- [3](/audio_textures/non_textures/3/index.md) --- [4](/audio_textures/non_textures/4/index.md)
 
 ## Comparison to other methods
 
@@ -29,13 +29,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Music_-_Apache_drum_break.ogg">
-    <source src="/assets/baselines/original/Music_-_Apache_drum_break.mp3">
-    <source src="/assets/baselines/original/Music_-_Apache_drum_break.wav">
+    <source src="/audio_textures/assets/baselines/original/Music_-_Apache_drum_break.ogg">
+    <source src="/audio_textures/assets/baselines/original/Music_-_Apache_drum_break.mp3">
+    <source src="/audio_textures/assets/baselines/original/Music_-_Apache_drum_break.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Music_-_Apache_drum_break.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Music_-_Apache_drum_break.png">Link</a>
 </td>
 </tr>
 
@@ -43,13 +43,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Music_-_Apache_drum_break.ogg">
-    <source src="/assets/baselines/mcdermott/Music_-_Apache_drum_break.mp3">
-    <source src="/assets/baselines/mcdermott/Music_-_Apache_drum_break.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_Apache_drum_break.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_Apache_drum_break.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_Apache_drum_break.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Music_-_Apache_drum_break.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Music_-_Apache_drum_break.png">Link</a>
 </td>
 </tr>
 
@@ -57,13 +57,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Music_-_Apache_drum_break.ogg">
-    <source src="/assets/baselines/ulyanov/Music_-_Apache_drum_break.mp3">
-    <source src="/assets/baselines/ulyanov/Music_-_Apache_drum_break.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_Apache_drum_break.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_Apache_drum_break.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_Apache_drum_break.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Music_-_Apache_drum_break.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Music_-_Apache_drum_break.png">Link</a>
 </td>
 </tr>
 
@@ -71,13 +71,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Music_-_Apache_drum_break.ogg">
-    <source src="/assets/baselines/gram/Music_-_Apache_drum_break.mp3">
-    <source src="/assets/baselines/gram/Music_-_Apache_drum_break.wav">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_Apache_drum_break.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_Apache_drum_break.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_Apache_drum_break.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Music_-_Apache_drum_break.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Music_-_Apache_drum_break.png">Link</a>
 </td>
 </tr>
 
@@ -85,13 +85,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Music_-_Apache_drum_break.ogg">
-    <source src="/assets/baselines/full_loss/Music_-_Apache_drum_break.mp3">
-    <source src="/assets/baselines/full_loss/Music_-_Apache_drum_break.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_Apache_drum_break.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_Apache_drum_break.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_Apache_drum_break.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Music_-_Apache_drum_break.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Music_-_Apache_drum_break.png">Link</a>
 </td>
 </tr>
 
@@ -113,13 +113,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Music_-_mambo.ogg">
-    <source src="/assets/baselines/original/Music_-_mambo.mp3">
-    <source src="/assets/baselines/original/Music_-_mambo.wav">
+    <source src="/audio_textures/assets/baselines/original/Music_-_mambo.ogg">
+    <source src="/audio_textures/assets/baselines/original/Music_-_mambo.mp3">
+    <source src="/audio_textures/assets/baselines/original/Music_-_mambo.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Music_-_mambo.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Music_-_mambo.png">Link</a>
 </td>
 </tr>
 
@@ -127,13 +127,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Music_-_mambo.ogg">
-    <source src="/assets/baselines/mcdermott/Music_-_mambo.mp3">
-    <source src="/assets/baselines/mcdermott/Music_-_mambo.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_mambo.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_mambo.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Music_-_mambo.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Music_-_mambo.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Music_-_mambo.png">Link</a>
 </td>
 </tr>
 
@@ -141,13 +141,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Music_-_mambo.ogg">
-    <source src="/assets/baselines/ulyanov/Music_-_mambo.mp3">
-    <source src="/assets/baselines/ulyanov/Music_-_mambo.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_mambo.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_mambo.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Music_-_mambo.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Music_-_mambo.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Music_-_mambo.png">Link</a>
 </td>
 </tr>
 
@@ -155,13 +155,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Music_-_mambo.ogg">
-    <source src="/assets/baselines/gram/Music_-_mambo.mp3">
-    <source src="/assets/baselines/gram/Music_-_mambo.wav">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_mambo.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_mambo.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Music_-_mambo.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Music_-_mambo.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Music_-_mambo.png">Link</a>
 </td>
 </tr>
 
@@ -169,13 +169,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Music_-_mambo.ogg">
-    <source src="/assets/baselines/full_loss/Music_-_mambo.mp3">
-    <source src="/assets/baselines/full_loss/Music_-_mambo.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_mambo.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_mambo.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Music_-_mambo.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Music_-_mambo.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Music_-_mambo.png">Link</a>
 </td>
 </tr>
 
@@ -197,13 +197,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Person_speaking_English.ogg">
-    <source src="/assets/baselines/original/Person_speaking_English.mp3">
-    <source src="/assets/baselines/original/Person_speaking_English.wav">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_English.ogg">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_English.mp3">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_English.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Person_speaking_English.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Person_speaking_English.png">Link</a>
 </td>
 </tr>
 
@@ -211,13 +211,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Person_speaking_English.ogg">
-    <source src="/assets/baselines/mcdermott/Person_speaking_English.mp3">
-    <source src="/assets/baselines/mcdermott/Person_speaking_English.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_English.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_English.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_English.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Person_speaking_English.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Person_speaking_English.png">Link</a>
 </td>
 </tr>
 
@@ -225,13 +225,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Person_speaking_English.ogg">
-    <source src="/assets/baselines/ulyanov/Person_speaking_English.mp3">
-    <source src="/assets/baselines/ulyanov/Person_speaking_English.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_English.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_English.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_English.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Person_speaking_English.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Person_speaking_English.png">Link</a>
 </td>
 </tr>
 
@@ -239,13 +239,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Person_speaking_English.ogg">
-    <source src="/assets/baselines/gram/Person_speaking_English.mp3">
-    <source src="/assets/baselines/gram/Person_speaking_English.wav">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_English.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_English.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_English.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Person_speaking_English.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Person_speaking_English.png">Link</a>
 </td>
 </tr>
 
@@ -253,13 +253,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Person_speaking_English.ogg">
-    <source src="/assets/baselines/full_loss/Person_speaking_English.mp3">
-    <source src="/assets/baselines/full_loss/Person_speaking_English.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_English.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_English.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_English.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Person_speaking_English.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Person_speaking_English.png">Link</a>
 </td>
 </tr>
 
@@ -281,13 +281,13 @@ title: Audio textures
 <td>Original</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/original/Person_speaking_French.ogg">
-    <source src="/assets/baselines/original/Person_speaking_French.mp3">
-    <source src="/assets/baselines/original/Person_speaking_French.wav">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_French.ogg">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_French.mp3">
+    <source src="/audio_textures/assets/baselines/original/Person_speaking_French.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/original/Person_speaking_French.png">Link</a>
+  <a href="/audio_textures/assets/baselines/original/Person_speaking_French.png">Link</a>
 </td>
 </tr>
 
@@ -295,13 +295,13 @@ title: Audio textures
 <td>McDermott & Simoncelli (2011)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/mcdermott/Person_speaking_French.ogg">
-    <source src="/assets/baselines/mcdermott/Person_speaking_French.mp3">
-    <source src="/assets/baselines/mcdermott/Person_speaking_French.wav">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_French.ogg">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_French.mp3">
+    <source src="/audio_textures/assets/baselines/mcdermott/Person_speaking_French.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/mcdermott/Person_speaking_French.png">Link</a>
+  <a href="/audio_textures/assets/baselines/mcdermott/Person_speaking_French.png">Link</a>
 </td>
 </tr>
 
@@ -309,13 +309,13 @@ title: Audio textures
 <td>Ulyanov & Lebedev (2016)</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/ulyanov/Person_speaking_French.ogg">
-    <source src="/assets/baselines/ulyanov/Person_speaking_French.mp3">
-    <source src="/assets/baselines/ulyanov/Person_speaking_French.wav">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_French.ogg">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_French.mp3">
+    <source src="/audio_textures/assets/baselines/ulyanov/Person_speaking_French.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/ulyanov/Person_speaking_French.png">Link</a>
+  <a href="/audio_textures/assets/baselines/ulyanov/Person_speaking_French.png">Link</a>
 </td>
 </tr>
 
@@ -323,13 +323,13 @@ title: Audio textures
 <td>Gram loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/gram/Person_speaking_French.ogg">
-    <source src="/assets/baselines/gram/Person_speaking_French.mp3">
-    <source src="/assets/baselines/gram/Person_speaking_French.wav">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_French.ogg">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_French.mp3">
+    <source src="/audio_textures/assets/baselines/gram/Person_speaking_French.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/gram/Person_speaking_French.png">Link</a>
+  <a href="/audio_textures/assets/baselines/gram/Person_speaking_French.png">Link</a>
 </td>
 </tr>
 
@@ -337,13 +337,13 @@ title: Audio textures
 <td>Full loss</td>
 <td>
   <audio controls>
-    <source src="/assets/baselines/full_loss/Person_speaking_French.ogg">
-    <source src="/assets/baselines/full_loss/Person_speaking_French.mp3">
-    <source src="/assets/baselines/full_loss/Person_speaking_French.wav">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_French.ogg">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_French.mp3">
+    <source src="/audio_textures/assets/baselines/full_loss/Person_speaking_French.wav">
   </audio>
 </td>
 <td>
-  <a href="/assets/baselines/full_loss/Person_speaking_French.png">Link</a>
+  <a href="/audio_textures/assets/baselines/full_loss/Person_speaking_French.png">Link</a>
 </td>
 </tr>
 
