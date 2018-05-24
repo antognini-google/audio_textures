@@ -8,7 +8,7 @@ title: Audio textures
 
 [Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/rhythmic_textures/1/) --- [2](/audio_textures/rhythmic_textures/2/) --- [3](/audio_textures/rhythmic_textures/3/) --- [4](/audio_textures/rhythmic_textures/4/) --- [5](/audio_textures/rhythmic_textures/5/) --- [6](/audio_textures/rhythmic_textures/6/) --- [7](/audio_textures/rhythmic_textures/7/) --- [8](/audio_textures/rhythmic_textures/8/) --- [9](/audio_textures/rhythmic_textures/9/) --- [10](/audio_textures/rhythmic_textures/10/) --- [11](/audio_textures/rhythmic_textures/11/) --- [12](/audio_textures/rhythmic_textures/12/) --- [13](/audio_textures/rhythmic_textures/13/) --- [14](/audio_textures/rhythmic_textures/14/) --- [15](/audio_textures/rhythmic_textures/15/) --- [16](/audio_textures/rhythmic_textures/16/) --- [17](/audio_textures/rhythmic_textures/17/) --- [18](/audio_textures/rhythmic_textures/18/) --- [19](/audio_textures/rhythmic_textures/19/) --- [20](/audio_textures/rhythmic_textures/20/) --- [21](/audio_textures/rhythmic_textures/21/) --- [22](/audio_textures/rhythmic_textures/22/) --- [23](/audio_textures/rhythmic_textures/23/) --- [24](/audio_textures/rhythmic_textures/24/) --- [25](/audio_textures/rhythmic_textures/25/) --- [26](/audio_textures/rhythmic_textures/26/) --- [27](/audio_textures/rhythmic_textures/27/)
+[1](/audio_textures/rhythmic_textures/1/) --- [2](/audio_textures/rhythmic_textures/2/) --- [3](/audio_textures/rhythmic_textures/3/)
 
 ## Comparison to other methods
 
