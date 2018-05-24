@@ -2,7 +2,7 @@
 title: Audio textures
 ---
 
-[Main page](/audio_textures/README.md)
+[Main page](/audio_textures/)
 
 # Audio textures
 
