@@ -1,3 +1,7 @@
+---
+title: Audio textures
+---
+
 [Main page](README.md)
 
 # Audio textures
