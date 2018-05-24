@@ -6,9 +6,9 @@ title: Audio textures
 
 # Audio textures
 
-[Pitched textures](/audio_textures/pitched_textures/1/index.md) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/index.md) --- [Stationary textures](/audio_textures/stationary_textures/1/index.md) --- [Non-textures](/audio_textures/non_textures/1/index.md)
+[Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/rhythmic_textures/1/index.md) --- [2](/audio_textures/rhythmic_textures/2/index.md) --- [3](/audio_textures/rhythmic_textures/3/index.md) --- [4](/audio_textures/rhythmic_textures/4/index.md) --- [5](/audio_textures/rhythmic_textures/5/index.md) --- [6](/audio_textures/rhythmic_textures/6/index.md) --- [7](/audio_textures/rhythmic_textures/7/index.md) --- [8](/audio_textures/rhythmic_textures/8/index.md) --- [9](/audio_textures/rhythmic_textures/9/index.md) --- [10](/audio_textures/rhythmic_textures/10/index.md) --- [11](/audio_textures/rhythmic_textures/11/index.md) --- [12](/audio_textures/rhythmic_textures/12/index.md) --- [13](/audio_textures/rhythmic_textures/13/index.md) --- [14](/audio_textures/rhythmic_textures/14/index.md) --- [15](/audio_textures/rhythmic_textures/15/index.md) --- [16](/audio_textures/rhythmic_textures/16/index.md) --- [17](/audio_textures/rhythmic_textures/17/index.md) --- [18](/audio_textures/rhythmic_textures/18/index.md) --- [19](/audio_textures/rhythmic_textures/19/index.md) --- [20](/audio_textures/rhythmic_textures/20/index.md) --- [21](/audio_textures/rhythmic_textures/21/index.md) --- [22](/audio_textures/rhythmic_textures/22/index.md) --- [23](/audio_textures/rhythmic_textures/23/index.md) --- [24](/audio_textures/rhythmic_textures/24/index.md) --- [25](/audio_textures/rhythmic_textures/25/index.md) --- [26](/audio_textures/rhythmic_textures/26/index.md) --- [27](/audio_textures/rhythmic_textures/27/index.md)
+[1](/audio_textures/rhythmic_textures/1/) --- [2](/audio_textures/rhythmic_textures/2/) --- [3](/audio_textures/rhythmic_textures/3/) --- [4](/audio_textures/rhythmic_textures/4/) --- [5](/audio_textures/rhythmic_textures/5/) --- [6](/audio_textures/rhythmic_textures/6/) --- [7](/audio_textures/rhythmic_textures/7/) --- [8](/audio_textures/rhythmic_textures/8/) --- [9](/audio_textures/rhythmic_textures/9/) --- [10](/audio_textures/rhythmic_textures/10/) --- [11](/audio_textures/rhythmic_textures/11/) --- [12](/audio_textures/rhythmic_textures/12/) --- [13](/audio_textures/rhythmic_textures/13/) --- [14](/audio_textures/rhythmic_textures/14/) --- [15](/audio_textures/rhythmic_textures/15/) --- [16](/audio_textures/rhythmic_textures/16/) --- [17](/audio_textures/rhythmic_textures/17/) --- [18](/audio_textures/rhythmic_textures/18/) --- [19](/audio_textures/rhythmic_textures/19/) --- [20](/audio_textures/rhythmic_textures/20/) --- [21](/audio_textures/rhythmic_textures/21/) --- [22](/audio_textures/rhythmic_textures/22/) --- [23](/audio_textures/rhythmic_textures/23/) --- [24](/audio_textures/rhythmic_textures/24/) --- [25](/audio_textures/rhythmic_textures/25/) --- [26](/audio_textures/rhythmic_textures/26/) --- [27](/audio_textures/rhythmic_textures/27/)
 
 ## Comparison to other methods
 
@@ -854,4 +854,4 @@ title: Audio textures
 </table>
 </center>
 
- | [Next page](/audio_textures/rhythmic_textures/2/index.md)
+ | [Next page](/audio_textures/rhythmic_textures/2/)

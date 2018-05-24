@@ -6,9 +6,9 @@ title: Audio textures
 
 # Audio textures
 
-[Pitched textures](/audio_textures/pitched_textures/1/index.md) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/index.md) --- [Stationary textures](/audio_textures/stationary_textures/1/index.md) --- [Non-textures](/audio_textures/non_textures/1/index.md)
+[Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/non_textures/1/index.md) --- [2](/audio_textures/non_textures/2/index.md) --- [3](/audio_textures/non_textures/3/index.md) --- [4](/audio_textures/non_textures/4/index.md)
+[1](/audio_textures/non_textures/1/) --- [2](/audio_textures/non_textures/2/) --- [3](/audio_textures/non_textures/3/) --- [4](/audio_textures/non_textures/4/)
 
 ## Comparison to other methods
 

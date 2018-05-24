@@ -6,9 +6,9 @@ title: Audio textures
 
 # Audio textures
 
-[Pitched textures](/audio_textures/pitched_textures/1/index.md) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/index.md) --- [Stationary textures](/audio_textures/stationary_textures/1/index.md) --- [Non-textures](/audio_textures/non_textures/1/index.md)
+[Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/pitched_textures/1/index.md) --- [2](/audio_textures/pitched_textures/2/index.md) --- [3](/audio_textures/pitched_textures/3/index.md) --- [4](/audio_textures/pitched_textures/4/index.md) --- [5](/audio_textures/pitched_textures/5/index.md) --- [6](/audio_textures/pitched_textures/6/index.md) --- [7](/audio_textures/pitched_textures/7/index.md) --- [8](/audio_textures/pitched_textures/8/index.md) --- [9](/audio_textures/pitched_textures/9/index.md) --- [10](/audio_textures/pitched_textures/10/index.md) --- [11](/audio_textures/pitched_textures/11/index.md) --- [12](/audio_textures/pitched_textures/12/index.md) --- [13](/audio_textures/pitched_textures/13/index.md)
+[1](/audio_textures/pitched_textures/1/) --- [2](/audio_textures/pitched_textures/2/) --- [3](/audio_textures/pitched_textures/3/) --- [4](/audio_textures/pitched_textures/4/) --- [5](/audio_textures/pitched_textures/5/) --- [6](/audio_textures/pitched_textures/6/) --- [7](/audio_textures/pitched_textures/7/) --- [8](/audio_textures/pitched_textures/8/) --- [9](/audio_textures/pitched_textures/9/) --- [10](/audio_textures/pitched_textures/10/) --- [11](/audio_textures/pitched_textures/11/) --- [12](/audio_textures/pitched_textures/12/) --- [13](/audio_textures/pitched_textures/13/)
 
 ## Comparison to other methods
 
@@ -266,4 +266,4 @@ title: Audio textures
 </table>
 </center>
 
-[Prev page](/audio_textures/pitched_textures/1/index.md) | 
+[Prev page](/audio_textures/pitched_textures/1/) | 
