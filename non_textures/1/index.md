@@ -2,7 +2,7 @@
 
 # Audio textures
 
-[Pitched textures](pitched_textures.md) --- [Rhythmic textures](rhythmic_textures.md) --- [Stationary textures](stationary_textures.md) --- [Non-textures](non_textures.md)
+[Pitched textures](pitched_textures/1/index.md) --- [Rhythmic textures](rhythmic_textures/1/index.md) --- [Stationary textures](stationary_textures/1/index.md) --- [Non-textures](non_textures/1/index.md)
 
 [1](non_textures/1/index.md) --- [2](non_textures/2/index.md) --- [3](non_textures/3/index.md) --- [4](non_textures/4/index.md)
 
