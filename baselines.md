@@ -1,4 +1,4 @@
-[Main page](README.md)
+[Main page](/README.md)
 
 # Audio textures
 
