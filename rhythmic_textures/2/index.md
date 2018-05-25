@@ -8,7 +8,7 @@ title: Audio textures
 
 [Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/rhythmic_textures/1/) --- [2](/audio_textures/rhythmic_textures/2/) --- [3](/audio_textures/rhythmic_textures/3/)
+Page: [1](/audio_textures/rhythmic_textures/1/) --- [2](/audio_textures/rhythmic_textures/2/) --- [3](/audio_textures/rhythmic_textures/3/)
 
 ## Comparison to other methods
 

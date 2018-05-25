@@ -8,7 +8,7 @@ title: Audio textures
 
 [Pitched textures](/audio_textures/pitched_textures/1/) --- [Rhythmic textures](/audio_textures/rhythmic_textures/1/) --- [Stationary textures](/audio_textures/stationary_textures/1/) --- [Non-textures](/audio_textures/non_textures/1/)
 
-[1](/audio_textures/stationary_textures/1/) --- [2](/audio_textures/stationary_textures/2/) --- [3](/audio_textures/stationary_textures/3/) --- [4](/audio_textures/stationary_textures/4/) --- [5](/audio_textures/stationary_textures/5/) --- [6](/audio_textures/stationary_textures/6/) --- [7](/audio_textures/stationary_textures/7/) --- [8](/audio_textures/stationary_textures/8/) --- [9](/audio_textures/stationary_textures/9/) --- [10](/audio_textures/stationary_textures/10/) --- [11](/audio_textures/stationary_textures/11/) --- [12](/audio_textures/stationary_textures/12/) --- [13](/audio_textures/stationary_textures/13/)
+Page: [1](/audio_textures/stationary_textures/1/) --- [2](/audio_textures/stationary_textures/2/) --- [3](/audio_textures/stationary_textures/3/) --- [4](/audio_textures/stationary_textures/4/) --- [5](/audio_textures/stationary_textures/5/) --- [6](/audio_textures/stationary_textures/6/) --- [7](/audio_textures/stationary_textures/7/) --- [8](/audio_textures/stationary_textures/8/) --- [9](/audio_textures/stationary_textures/9/) --- [10](/audio_textures/stationary_textures/10/) --- [11](/audio_textures/stationary_textures/11/) --- [12](/audio_textures/stationary_textures/12/) --- [13](/audio_textures/stationary_textures/13/)
 
 ## Comparison to other methods
 
