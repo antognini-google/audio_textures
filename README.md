@@ -1,6 +1,6 @@
 # Audio texture synthesis
 
-Our poster at ICASSP 2019 can be found [at this link](assets/AudioTexturesPoster.pdf).
+Our 2019 ICASSP paper can be found [at this link](assets/AudioTexturesPaper.pdf).  Our poster at ICASSP 2019 can be found [at this link](assets/AudioTexturesPoster.pdf).
 
 ## [Comparison to baselines](baselines.md)
 
